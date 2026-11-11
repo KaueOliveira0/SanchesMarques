@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+    <linearGradient id="aluGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e2e8f0" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="36" fill="url(#bgGrad)" stroke="#f59e0b" stroke-width="4" />
+  <!-- Frame outer profile -->
+  <rect x="36" y="36" width="120" height="120" rx="8" fill="none" stroke="url(#goldGrad)" stroke-width="8" />
+  <!-- Frame mullion / divider -->
+  <line x1="96" y1="36" x2="96" y2="156" stroke="url(#aluGrad)" stroke-width="6" />
+  <!-- Glass pane highlight -->
+  <rect x="44" y="44" width="46" height="104" rx="4" fill="#38bdf8" fill-opacity="0.15" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="2" />
+  <rect x="102" y="44" width="46" height="104" rx="4" fill="#38bdf8" fill-opacity="0.25" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="2" />
+  <!-- S&M Emblem -->
+  <circle cx="96" cy="96" r="24" fill="#0f172a" stroke="#f59e0b" stroke-width="3" />
+  <text x="96" y="103" font-family="sans-serif" font-weight="900" font-size="16" fill="#f59e0b" text-anchor="middle">S&amp;M</text>
+</svg>
