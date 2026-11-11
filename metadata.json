@@ -1,0 +1,6 @@
+{
+  "name": "Sanches&Marques esquadrias - Esquadria de alumínio",
+  "description": "Sanches&Marques esquadrias - Sistema industrial de gestão de serralheria de alumínio, orçamentos automáticos, planos de cortes 1D, controle de estoque, planos de montagem e integração com máquinas CNC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

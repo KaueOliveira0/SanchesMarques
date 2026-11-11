@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Sanches & Marques Esquadrias Pro",
+  "short_name": "S&M Esquadr",
+  "description": "Sistema industrial de gestão de serralheria de alumínio, orçamentos, planos de corte 1D/2D, estoque e PCP offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

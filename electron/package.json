@@ -1,0 +1,37 @@
+{
+  "name": "sanches-marques-esquadrias",
+  "version": "2.4.0",
+  "description": "Sanches&Marques esquadrias - Sistema de Gestão, Cortes CNC e Controle de Estoque",
+  "main": "main.cjs",
+  "author": "Sanches & Marques Esquadrias",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder --win portable --x64"
+  },
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.sanchesmarques.esquadrias",
+    "productName": "Sanches e Marques Esquadrias",
+    "artifactName": "${productName}.${ext}",
+    "directories": {
+      "output": "dist-exe"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ]
+    },
+    "portable": {
+      "splashImage": null,
+      "useZip": false
+    }
+  }
+}

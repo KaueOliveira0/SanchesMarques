@@ -1,0 +1,5605 @@
+
+
+-- 1 of 215 --
+
+
+
+-- 2 of 215 --
+
+www.mirandaaluminio.com.br 4
+Barras Chatas 	05
+Cantoneiras 	06
+Perfis U 	09
+Tubos Redondos 	07
+Tubos Retangulares 	08
+Tubos Quadrados 	09
+Vergalhões Quadrados 	09
+Vergalhões Redondos 	10
+Vergalhões Sextavados 	11
+Conexões 	12
+Contramarcos 	13
+Arremates 	15
+Linha 20 	17
+Módulo Prático 	20
+Módulo Especial 	28
+Linha 25 	31
+Linha 30 	39
+Linha 42 	47
+Miranda 25 	49
+Miranda 32 	96
+Box Temperado 	131
+Temperado 8mm 	132
+Temperado 10mm 	137
+Fachada Miranda 	142
+Brise 	179
+Cercas e Portões 	181
+Lambris 	187
+Venezianas 	190
+Policarbonato 	193
+Guarda Corpo 	194
+Fachada Cortina 	200
+Box Acrilico 	203
+Divisórias 	208
+Carrocerias 	211
+Diversos 	214
+Perfis T 	11
+Fachada PVII 	157
+Fachada Atlanta 	162
+Tela Mosquiteira 	210
+ÍNDICE
+
+-- 3 of 215 --
+
+www.mirandaaluminio.com.br
+TABELADOS
+5
+CÓDIGO
+BARRAS CHATAS 	B
+MBC140 	6063 	T5 	9,52 	3,17 	6 	0,525 	0,088
+MBC002 	6063 	T5 	12,70 	3,17 	6 	0,654 	0,109
+MBC003 	6063 	T5 	12,70 	4,76 	6 	1,002 	0,167
+MBC004 	6063 	T5 	12,70 	6,37 	6 	1,314 	0,219
+MBC007 	6061 	T4 	12,70 	9,52 	5,5 	1,822 	0,331
+MBC008 	6063 	T5 	15,87 	3,17 	6 	0,822 	0,137
+MBC009 	6063 	T5 	15,87 	4,76 	6 	1,230 	0,205
+MBC009NTF 	6063 	T6F 	15,87 	4,76 	6 	1,230 	0,205 	LIGA ESPECIAL PARA DOBRA
+MBC010 	6063 	T5 	15,87 	6,35 	6 	1,645 	0,274
+MBC119 	6063 	T5 	15,88 	9,52 	6 	2,619 	0,437
+MBC015 	6063 	T5 	19,05 	3,17 	6 	0,984 	0,164
+MBC016 	6063 	T5 	19,05 	4,76 	6 	1,476 	0,246
+MBC017 	6063 	T5 	19,05 	6,35 	6 	1,968 	0,328
+MBC018 	6063 	T5 	19,05 	9,53 	6 	3,092 	0,515
+MBC019 	6063 	T5 	15,88 	9,52 	6 	4,025 	0,671
+MBC16NTF 	6063 	T5 	19,05 	4,76 	6 	1,484 	0,247
+MBC021 	6063 	T5 	22,22 	3,17 	6 	1,146 	0,191
+MBC023 	6063 	T5 	22,22 	6,35 	6 	2,320 	0,387
+MBC022 	6063 	T5 	22,22 	4,76 	6 	1,735 	0,289
+MBC025 	6063 	T5 	25,40 	3,17 	6 	1,314 	0,219
+MBC026 	6063 	T5 	25,40 	4,76 	6 	1,968 	0,328
+MBC027 	6063 	T5 	25,40 	6,35 	6 	2,622 	0,437
+MBC029 	6063 	T5 	25,40 	9,52 	6 	4,114 	0,686
+MBC030 	6063 	T5 	25,40 	12,87 	6 	5,232 	0,872
+MBC040 	6063 	T5 	25,40 	19,05 	6 	8,231 	1,372
+MBC271 	6063 	T5 	25,40 	15,87 	6 	6,985 	1,164
+MBC037 	6063 	T5 	31,75 	4,76 	6 	2,460 	0,410
+MBC038 	6063 	T5 	31,75 	6,35 	6 	3,452 	0,575
+MBC069 	6063 	T5 	31,75 	9,52 	6 	5,153 	0,859
+MBC050 	6063 	T5 	38,10 	3,17 	6 	1,968 	0,328
+MBC051 	6063 	T5 	38,10 	4,76 	6 	3,090 	0,515
+MBC052 	6063 	T5 	38,10 	6,35 	6 	3,936 	0,656
+MBC053 	6063 	T5 	38,10 	9,52 	6 	5,880 	0,980
+MBC054 	6063 	T5 	38,10 	12,70 	6 	7,922 	1,320
+MBC112 	6063 	T5 	38,10 	25,40 	6 	15,900 	2,650
+MBC220 	6063 	T5 	38,10 	19,05 	6 	12,583 	2,097
+MBC065 	6063 	T5 	50,40 	19,05 	6 	15,990 	2,665
+MBC045 	6063 	T5 	50,80 	6,35 	6 	5,512 	0,919
+MBC060 	6063 	T5 	50,80 	3,17 	6 	2,628 	0,438
+MBC061 	6063 	T5 	50,80 	4,76 	6 	3,918 	0,653
+6063 	T5 	50,80 	9,52 	6 	7,836 	1,306
+MBC064 	6063 	T5 	50,80 	12,70 	6 	10,500 	1,750
+MBC102 	6063 	T5 	50,80 	25,40 	6 	21,500 	3,583
+MBC317 	6063 	T5 	50,80 	31,75 	6 	28,062 	4,677
+MBC159 	6063 	T5 	63,50 	19,05 	6 	20,250 	3,375
+MBC080 	6063 	T5 	63,50 	3,17 	6 	3,260 	0,543
+MBC072 	6063 	T5 	76,20 	3,17 	6 	4,000 	0,667
+MBC036 	6063 	T5 	31,75 	4,76 	6 	1,638 	0,273
+MBC063
+
+-- 4 of 215 --
+
+www.mirandaaluminio.com.br
+TABELADOS
+6
+MBC090 	6063 	T5 	76,20 	12,70 	6 	16,150 	2,692
+CÓDIGO
+BARRAS CHATAS 	B
+MBC203 	6063 	T5 	76,20 	25,40 	6 	32,290 	5,382
+MBC132 	6063 	T5 	76,20 	9,52 	6 	11,850 	1,975
+MBC08SC 	6063 	T5 	85,00 	3,17 	6 	4,398 	0,733
+MBC174 	6063 	T5 	85,73 	3,17 	6 	4,420 	0,737
+MBC083 	6063 	T5 	101,60 	9,52 	6 	15,750 	2,625
+MBC085 	6063 	T5 	101,60 	15,87 	6 	26,200 	4,367
+MBC101 	6063 	T5 	101,60 	6,35 	6 	10,500 	1,750
+MBC204 	6063 	T5 	101,60 	12,70 	6 	21,524 	3,587
+MBC099 	6063 	T5 	101,60 	25,40 	6 	43,700 	7,283
+MBC097 	6063 	T5 	152,40 	6,35 	6 	15,100 	2,517
+MBC073 	6063 	T5 	76,20 	6,35 	6 	7,866 	1,311
+CÓDIGO
+CANTONEIRAS
+MCT001LN 	6063 	T5 	12,70 	12,70 	6 	0,445 	0,074
+MCT003 	6063 	T5 	12,70 	12,70 	6 	1,181 	0,197
+MCT005 	6063 	T5 	15,90 	15,90 	6 	0,780 	0,130
+MCT007 	6063 	T5 	19,10 	19,10 	6 	0,942 	0,157
+MCT010 	6063 	T5 	19,10 	19,10 	6 	1,806 	0,301
+MCT011 	6063 	T5 	22,22 	22,22 	6 	1,701 	0,284
+MCT012 	6063 	T5 	22,22 	22,22 	6 	2,210 	0,368
+MCT016 	6063 	T5 	25,40 	25,40 	6 	1,260 	0,210
+MCT019 	6063 	T5 	25,40 	25,40 	6 	2,460 	0,410
+MCT020 	6063 	T5 	25,40 	25,40 	6 	3,680 	0,613
+MCT022 	6063 	T5 	31,80 	31,80 	6 	3,114 	0,519
+MCT023 	6063 	T5 	31,80 	31,80 	6 	4,548 	0,758
+MCT026 	6063 	T5 	38,10 	38,10 	6 	3,768 	0,628
+MCT028 	6063 	T5 	38,10 	38,10 	6 	7,215 	1,203
+MCT032 	6063 	T5 	50,80 	50,80 	6 	5,082 	0,847
+MCT033 	6063 	T5 	50,80 	50,80 	6 	7,500 	1,250
+MCT034 	6063 	T5 	50,80 	50,80 	6 	9,834 	1,639
+MCT037 	6063 	T5 	76,20 	76,20 	6 	15,025 	2,504
+MCT043 	6063 	T5 	50,80 	50,80 	6 	3,950 	0,658
+MCT045 	6063 	T5 	76,20 	76,20 	6 	11,780 	1,963
+MCT047 	6063 	T5 	38,10 	38,10 	6 	1,908 	0,318
+MCT050 	6063 	T5 	50,80 	50,80 	6 	2,720 	0,453
+MCT027 	6063 	T5 	38,10 	38,10 	6 	5,532 	0,922
+MCT204 	6063 	T5 	25,40 	12,70 	6 	1,806 	0,301
+MCT209 	6063 	T5 	32,00 	16,20 	6 	0,918 	0,153
+MCT213 	6063 	T5 	38,10 	25,40 	6 	3,600 	0,600
+MCT217 	6063 	T5 	50,80 	25,40 	6 	3,785 	0,631
+ME1056 	6063 	T5 	25,40 	25,40 	6 	0,900 	0,150
+MCT218 	6063 	T5 	50,80 	31,80 	6 	2,622 	0,437
+MCT128 	6063 	T5 	50,00 	30,00 	6 	3,800 	0,633
+MCT005LN 	6063 	T5 	15,90 	15,90 	6 	0,672 	0,112
+MCT007LN 	6063 	T5 	19,10 	19,10 	6 	0,720 	0,120
+MCT001 	6063 	T5 	12,70 	12,70 	6 	0,612 	0,102
+
+-- 5 of 215 --
+
+www.mirandaaluminio.com.br
+TABELADOS
+7
+CÓDIGO
+CANTONEIRAS
+www.mirandaaluminio.com.br 7
+MCT071 	6063 	T5 	101,60 	50,80 	6 	8,250 	1,375
+MCT101 	6063 	T5 	101,60 	101,60 	6 	39,576 	6,596
+MCT148 	6063 	T5 	101,60 	50,80 	6 	11,430 	1,905
+MCT271 	6063 	T5 	100,00 	50,00 	6 	4,648 	0,775
+TUBOS REDONDOS
+CÓDIGO
+MKS2006 	6063 	T5 	48,30 	3,70 	6 	6,995 	1,166
+MTR001 	6063 	T5 	9,50 	1,00 	6 	0,432 	0,072
+MTR002 	6063 	T5 	9,50 	1,60 	6 	0,642 	0,107
+MTR005 	6063 	T5 	12,70 	1,00 	6 	0,702 	0,117
+MTR005LT5 	6063 	T5 	12,70 	1,00 	6 	0,556 	0,093
+MTR005 	6063 	T5 	12,70 	1,60 	6 	0,960 	0,160
+MTR009 	6063 	T5 	14,30 	2,00 	6 	1,314 	0,219
+MTR018 	6063 	T5 	19,10 	0,80 	6 	0,760 	0,127
+MTR018 	6063 	T5 	19,10 	1,00 	6 	0,998 	0,166
+MTR020 	6063 	T5 	19,10 	1,00 	6 	1,404 	0,234
+MTR032 	6063 	T5 	22,20 	1,00 	6 	1,080 	0,180
+MTR035 	6063 	T5 	22,20 	1,60 	6 	1,700 	0,283
+MTR039 	6063 	T5 	25,40 	1,00 	6 	1,248 	0,208
+MTR040 	6063 	T5 	25,40 	1,50 	6 	1,932 	0,322
+MTR046 	6063 	T5 	28,60 	1,00 	6 	1,520 	0,253
+MTR047 	6063 	T5 	28,60 	1,60 	6 	2,395 	0,399
+MTR055 	6063 	T5 	31,80 	1,00 	6 	1,650 	0,275
+MTR055 	6063 	T5 	31,80 	1,60 	6 	2,448 	0,408
+MTR056 	6063 	T5 	31,80 	2,00 	6 	3,360 	0,560
+MTR058 	6063 	T5 	31,80 	3,20 	6 	4,632 	0,772
+MTR069 	6063 	T5 	38,10 	1,00 	6 	1,950 	0,325
+MTR070 	6063 	T5 	38,10 	1,60 	6 	3,030 	0,505
+MTR072 	6063 	T5 	38,10 	2,40 	6 	4,402 	0,734
+MTR073 	6063 	T5 	38,10 	3,20 	6 	5,940 	0,990
+MTR086 	6063 	T5 	44,50 	3,20 	6 	6,690 	1,115
+MTR098 	6063 	T5 	50,80 	1,60 	6 	3,990 	0,665
+MTR099 	6063 	T5 	50,80 	2,00 	6 	5,214 	0,869
+MTR127 	6063 	T5 	38,10 	9,52 	6 	10,940 	1,823
+MTR078 	6063 	T5 	9,50 	2,80 	6 	0,999 	0,167
+MTR100 	6063 	T5 	50,80 	3,20 	6 	7,700 	1,283
+MTR071 	6063 	T5 	38,10 	2,00 	6 	3,930 	0,655
+MTR041 	6063 	T5 	25,40 	2,00 	6 	2,400 	0,400
+MTR042 	6063 	T5 	28,60 	3,20 	6 	3,678 	0,613
+MTR034 	6063 	T5 	22,20 	3,20 	6 	3,110 	0,518
+MTR011 	6061 	T5 	15,90 	1,00 	6 	0,762 	0,127
+MTR012 	6063 	T5 	15,90 	1,20 	6 	0,900 	0,150
+MTR014 	6063 	T5 	15,90 	1,60 	6 	1,158 	0,193
+MTR220 	6063 	T5 	12,70 	3,20 	6 	1,600 	0,267
+MTR250 	6063 	T5 	15,90 	3,20 	6 	2,200 	0,367
+MTR1059 	6063 	T5 	19,05 	3,17 	6 	2,471 	0,412
+MTR1389 	6063 	T5 	9,50 	2,20 	6 	0,902 	0,150
+MTR249 	6063 	T5 	19,10 	2,40 	6 	2,100 	0,350
+MTR299 	6063 	T5 	25,40 	2,40 	6 	2,868 	0,478
+MTR306 	6063 	T5 	44,50 	1,60 	6 	3,545 	0,591
+
+-- 6 of 215 --
+
+www.mirandaaluminio.com.br
+TABELADOS
+8
+TUBOS REDONDOS
+CÓDIGO
+MTR106 	6063 	T5 	57,20 	3,20 	6 	8,710 	1,452
+MTR116 	6063 	T5 	63,50 	6,40 	6 	18,490 	3,082
+MTR117 	6063 	T5 	69,90 	2,00 	6 	6,720 	1,120
+MTR135 	6063 	T5 	76,20 	1,70 	6 	6,474 	1,079
+MTR135 	6063 	T5 	76,20 	1,50 	6 	6,120 	1,020
+MTR101 	6063 	T5 	50,80 	6,40 	6 	14,380 	2,397
+MTR063 	6063 	T5 	63,50 	3,20 	6 	9,743 	1,624
+MTR147 	6063 	T5 	82,60 	3,20 	6 	12,798 	2,133
+MTR161 	6063 	T5 	101,60 	1,50 	6 	7,700 	1,283
+MTR161 	6063 	T5 	101,60 	1,60 	6 	8,625 	1,438
+MTR233 	6063 	T5 	152,40 	3,20 	6 	25,500 	4,250
+MTR163 	6063 	T5 	101,60 	3,17 	6 	15,882 	2,647
+MTR152 	6063 	T5 	152,40 	1,50 	6 	11,560 	1,927
+MTR137 	6063 	T5 	76,20 	4,80 	6 	17,300 	2,883
+MTR136 	6063 	T5 	76,20 	3,20 	6 	11,852 	1,975
+MTR309 	6063 	T5 	63,50 	1,60 	6 	4,985 	0,831
+MTR135 	6063 	T5 	76,20 	2,00 	6 	7,580 	1,263
+TUBOS RETANGULARES
+CÓDIGO
+MTG074 	6063 	T5 	25,00 	12,70 	0,80 	6 	0,910 	0,152
+MTG001 	6063 	T5 	25,40 	12,70 	1,58 	6 	1,794 	0,299
+MTG074F 	6063 	T5 	25,40 	12,70 	0,60 	6 	0,797 	0,133
+MTG002 	6063 	T5 	30,00 	20,00 	2,00 	6 	2,994 	0,499
+MTG003 	6063 	T5 	38,10 	25,40 	2,00 	6 	3,870 	0,645
+MTG027 	6063 	T5 	38,10 	25,40 	1,58 	6 	3,368 	0,561
+MTG004 	6063 	T5 	50,80 	12,70 	1,58 	6 	3,102 	0,517
+MTG004L 	6063 	T5 	50,80 	12,70 	0,90 	6 	1,996 	0,333
+MTG005 	6063 	T5 	50,80 	12,70 	1,50 	6 	3,714 	0,619
+MTG007 	6063 	T5 	50,80 	12,70 	2,00 	6 	4,812 	0,802
+MTG008 	6063 	T5 	50,80 	12,70 	1,98 	6 	5,472 	0,912
+MTG073L 	6063 	T5 	50,80 	25,40 	0,60 	6 	1,694 	0,282
+MTG010 	6063 	T5 	60,30 	38,10 	2,00 	6 	6,200 	1,033
+MTG011 	6063 	T5 	76,20 	25,40 	1,58 	6 	5,300 	0,883
+MTG013 	6063 	T5 	76,20 	25,40 	2,00 	6 	6,348 	1,058
+MTG014 	6063 	T5 	76,20 	38,10 	1,58 	6 	5,780 	0,963
+MTG014L 	6063 	T5 	76,20 	38,10 	1,15 	6 	4,190 	0,698
+MTG015 	6063 	T5 	76,20 	38,10 	2,00 	6 	8,000 	1,333
+MTG020 	6063 	T5 	76,20 	38,10 	1,20 	6 	5,309 	0,855
+MTG017 	6063 	T5 	101,60 	38,10 	2,00 	6 	9,020 	1,503
+MTG021 	6063 	T5 	101,60 	50,80 	3,17 	6 	15,500 	2,583
+MTG071 	6063 	T5 	101,60 	50,80 	1,20 	6 	6,336 	1,056
+MTG072L 	6063 	T5 	101,60 	50,80 	1,80 	6 	8,910 	1,485
+MTG072 	6063 	T5 	101,60 	50,80 	2,00 	6 	10,600 	1,767
+MTG510 	6063 	T5 	101,60 	50,80 	1,35 	6 	6,520 	1,087
+MTG041 	6063 	T5 	150,00 	50,00 	2,70 	6 	18,036 	3,006
+MTG156 	6063 	T5 	150,00 	50,00 	1,50 	6 	9,400 	1,567
+MTG023 	6063 	T5 	150,00 	50,00 	4,00 	6 	25,730 	4,288
+MTG024 	6063 	T5 	152,40 	38,20 	3,20 	6 	19,200 	3,200
+MTG042 	6063 	T5 	152,40 	76,20 	4,76 	6 	35,500 	5,917
+MTG043 	6063 	T5 	152,40 	76,20 	3,17 	6 	22,914 	3,819
+MTG073N 	6063 	T5 	50,80 	25,40 	0,80 	6 	1,970 	0,328
+MTG073P 	6063 	T5 	50,80 	25,40 	1,00 	6 	2,424 	0,404
+
+-- 7 of 215 --
+
+www.mirandaaluminio.com.br
+TABELADOS
+9
+CÓDIGO
+PERFIS "U"
+MPU001 	6063 	T5 	9,30 	9,30 	1,60 	6 	0,685 	0,114
+MPU800 	6063 	T5 	9,50 	9,50 	1,00 	6 	0,450 	0,075
+MPU002 	6063 	T5 	12,70 	12,70 	1,60 	6 	0,852 	0,142
+MPU071 	6063 	T5 	14,00 	48,00 	1,60 	6 	2,485 	0,414
+MPU004 	6063 	T5 	15,90 	15,90 	1,60 	6 	1,100 	0,183
+MPU207 	6063 	T5 	19,10 	12,70 	1,60 	6 	1,204 	0,201
+MPU246 	6063 	T5 	25,00 	18,00 	1,50 	6 	1,410 	0,235
+MPU316 	6063 	T5 	25,40 	25,40 	1,50 	6 	1,620 	0,270
+MPU639 	6063 	T5 	29,00 	35,00 	1,50 	6 	2,340 	0,390
+CÓDIGO
+TUBOS QUADRADOS
+A
+MTQ002 	6063 	T5 	12,70 	12,70 	1,60 	6 	1,237 	0,206
+MTQ005 	6063 	T5 	19,05 	19,05 	1,00 	6 	1,210 	0,202
+MTQ006 	6063 	T5 	19,05 	19,05 	1,58 	6 	1,818 	0,303
+MTQ009 	6063 	T5 	25,40 	25,40 	1,58 	6 	2,448 	0,408
+MTQ023F 6063 	T5 	25,40 	25,40 	0,80 	6 	1,302 	0,171
+MTQ025 	6063 	T5 	25,40 	25,40 	3,18 	6 	4,721 	0,787
+MTQ011 	6063 	T5 	31,75 	31,75 	2,00 	6 	3,900 	0,650
+MTQ012 	6063 	T5 	31,75 	31,75 	1,50 	6 	3,102 	0,517
+MTQ014 	6063 	T5 	38,10 	38,10 	1,50 	6 	3,750 	0,625
+MTQ015 	6063 	T5 	38,10 	38,10 	1,80 	6 	4,261 	0,710
+MTQ016 	6063 	T5 	38,10 	38,10 	2,00 	6 	4,731 	0,789
+MTQ027 	6063 	T5 	38,10 	38,10 	3,18 	6 	7,422 	1,237
+MTQ047 	6063 	T5 	50,80 	50,80 	1,50 	6 	5,200 	0,867
+MTQ055 	6063 	T5 	50,80 	50,80 	1,30 	6 	4,200 	0,700
+MTQ153 	6063 	T5 	50,80 	50,38 	6,35 	6 	18,360 	3,060
+MTQ018 	6063 	T5 	63,50 	63,50 	3,17 	6 	12,510 	2,085
+MTQ030 	6063 	T5 	76,00 	76,00 	3,17 	6 	10,600 	1,767
+MTQ020 	6063 	T5 	76,20 	76,20 	2,00 	6 	10,091 	1,682
+MTQ088 	6063 	T5 	100,00 	100,00 	1,80 	6 	12,545 	2,091
+MTQ021 	6063 	T5 	101,60 	101,60 	3,20 	6 	24,812 	4,135
+MTQ034 	6063 	T5 	101,60 	101,60 	3,00 	6 	18,680 	3,113
+MTQ034L 6063 	T5 	101,60 	101,60 	2,50 	6 	16,116 	2,686
+MTQ003 	6063 	T5 	15,87 	15,87 	1,58 	6 	1,470 	0,245
+MTQ023 	6063 	T5 	25,40 	25,40 	0,90 	6 	1,520 	0,253
+MTQ013 	6063 	T5 	38,10 	38,10 	0,80 	6 	2,050 	0,342
+MTQ017 	6063 	T5 	50,80 	50,80 	1,98 	6 	6,300 	1,050
+MTQ001 	6063 	T5 	12,70 	12,70 	1,27 	6 	0,942 	0,157
+CÓDIGO
+VERGALHÕES QUADRADOS
+A
+MVQ006 6063 	T5 	6,35 	0,650 	0,108
+MVQ008 6063 	T5 	8,00 	1,020 	0,170
+MVQ010 6063 	T5 	9,52 	1,500 	0,250
+MVQ009 6063 	T5 	12,70 	2,720 	0,453
+MVQ016 6063 	T5 	15,88 	4,100 	0,683
+6
+6
+6
+6
+6
+
+-- 8 of 215 --
+
+www.mirandaaluminio.com.br
+TABELADOS
+10
+www.mirandaaluminio.com.br
+MVQ007 	6063 	T5 	19,05 	5,890 	0,982
+MVQ012 	6063 	T5 	22,22 	8,130 	1,355
+MVQ011 	6063 	T5 	25,40 	10,968 	1,828
+MVQ032 	6063 	T5 	31,75 	16,500 	2,750
+MVQ038 	6063 	T5 	38,10 	23,600 	3,933
+MVQ038N3 6063 	T5 	38,10 	11,800 	3,933
+MVQ050 	6063 	T5 	50,80 	42,768 	7,128
+MVQ050N3 6063 	T5 	50,80 	21,384 	7,128
+MVQ060 	6063 	T5 	63,50 	10,910 	1,818
+MVQ070 	6063 	T5 	76,20 	15,820 15,820
+MVQ070N3 6063 	T5 	76,20 	47,460 15,820
+MVQ030 	6063 	T5 	88,90 	136,99 22,832
+MVQ020N3 6063 	T5 	101,60 	86,440 28,813
+MVQ114 	6063 	T5 	114,30 	35,274 35,274
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+CÓDIGO
+VERGALHÕES QUADRADOS
+A
+CÓDIGO
+VERGALHÕES REDONDOS
+A
+6351 	- 	-
+6351 	- 	-
+6351 	- 	-
+6351 	- 	-
+6351 	- 	-
+MRV006
+MRV008
+MRV005
+MRV010
+MRV012
+MRV015
+MRV174
+MRV020
+MRV018
+MRV016
+MRV021
+MRV032
+MRV038
+MRV027
+MRV414
+MRV029
+MRV031
+MRV028
+MRV035
+MRV036
+MRV039
+MRV042
+MRV040
+MRV041
+MRV045
+MRV065
+MRV050
+MRV053
+MRV152
+MRV039
+6063
+6063
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6351
+6063
+6351 	T6
+T5
+T6
+T6
+T5
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T5
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+T6
+6,35
+8,00
+9,52
+12,70
+14,26
+15,87
+17,46
+19,05
+22,22
+25,40
+28,58
+31,75
+38,10
+41,26
+44,45
+50,80
+57,15
+63,50
+69,85
+76,20
+101,60
+101,60
+114,30
+127,00
+139,70
+152,40
+165,10
+177,80
+203,20
+254,00
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+1
+1
+3
+1
+1
+1
+6
+6
+6
+1
+0,510
+0,798
+1,200
+2,058
+2,697
+3,215
+3,880
+4,770
+6,288
+8,656
+10,422
+12,900
+18,600
+22,080
+25,500
+33,300
+41,800
+52,500
+63,120
+12,500
+137,200
+22,860
+28,150
+107,700
+41,925
+49,433
+346,82
+403,73
+88,000
+823,91
+0,085
+0,133
+0,200
+0,343
+0,450
+0,536
+0,647
+0,795
+1,048
+1,443
+1,737
+2,150
+3,100
+3,680
+4,250
+5,550
+6,967
+8,750
+10,520
+12,500
+22,867
+22,860
+28,150
+35,900
+41,925
+49,433
+57,803
+67,286
+88,000
+137,32
+
+-- 9 of 215 --
+
+www.mirandaaluminio.com.br
+TABELADOS
+11
+CÓDIGO
+VERGALHÕES SEXTAVADOS
+6351
+6351
+6351
+6351
+6351
+MVS008
+MVS009
+MVS010
+MVS011
+MVS012
+MVS014
+6351 	T6
+T6
+T6
+T6
+T6
+T6
+15,88
+19,05
+22,23
+25,40
+28,58
+31,75
+6
+6
+6
+3,600
+5,130
+7,300
+9,060
+12,100
+16,400
+0,600
+0,855
+1,217
+1,510
+2,017
+2,733
+0,388	6351 	T6 	12,70	MVS003 	2,330
+6
+6
+6
+6
+MPT008 	6063 	T5 	25,40 	1,20 	6 	1,026 	0,171
+CÓDIGO
+PERFIS T
+MPT010 	6063 	T5 	25,40 	3,18 	6 	2,628 	0,438
+MPT012 	6063 	T5 	31,75 	3,18 	6 	3,192 	0,532
+MPT015 	6063 	T5 	38,10 	3,18 	6 	3,924 	0,654
+MPT016 	6063 	T5 	50,80 	3,18 	6 	5,100 	0,850
+
+-- 10 of 215 --
+
+MCL006
+Peso Kg/m
+1,112
+Peso Barra 3 m
+3,336 Kg
+Cantoneira 45º
+MCL011
+Peso Kg/m
+0,319
+Peso Barra 3 m
+0,957 Kg
+Cunha 45º
+MCL007
+Peso Kg/m
+0,917
+Peso Barra 3 m
+2,751 Kg
+Cantoneira 45º
+MCL046
+Peso Kg/m
+0,210
+Peso Barra 3 m
+0,630 Kg
+Cunha 45º
+Obs: Medida de uso conforme area interna do perfil 	Obs: Medida de uso conforme area interna do perfil
+Obs: Medida de uso conforme area interna do perfil 	Obs: Medida de uso conforme area interna do perfil
+www.mirandaaluminio.com.br
+CONEXÕES
+12
+
+-- 11 of 215 --
+
+MCM063
+Peso Kg/m
+0,183
+Peso Barra 6 m
+1,100 Kg
+Contramarco
+MCM151
+Peso Kg/m
+0,247
+Peso Barra 6 m
+1,480 Kg
+Contramarco Porta
+MCM060
+Peso Kg/m
+0,277
+Peso Barra 6 m
+1,660 Kg
+Contramarco
+MCM174
+Peso Kg/m
+0,409
+Peso Barra 6 m
+2,454 Kg
+Contramarco
+www.mirandaaluminio.com.br
+CONTRAMARCOS
+13
+
+-- 12 of 215 --
+
+MCM175
+Peso Kg/m
+0,326
+Peso Barra 6 m
+1,958 Kg
+Chumbador P/ Contramarco
+www.mirandaaluminio.com.br
+CONTRAMARCOS
+14
+MCM060L
+Peso Kg/m
+0,222
+Peso Barra 6 m
+1,332 Kg
+Contramarco
+MCM098
+Peso Kg/m
+0,301
+Peso Barra 6 m
+1,804 Kg
+Contramarco Porta
+
+-- 13 of 215 --
+
+MCM008
+Peso Kg/m
+0,178
+Peso Barra 6 m
+1,068 Kg
+Arremate
+MMP347
+Peso Kg/m
+0,165
+Peso Barra 6 m
+0,990 Kg
+Arremate
+MMP348
+Peso Kg/m
+0,202
+Peso Barra 6 m
+1,212 Kg
+Arremate
+MMP349
+Peso Kg/m
+0,313
+Peso Barra 6 m
+1,880 Kg
+Arremate
+Obs: Utiliza presilha NYL190
+Obs: Utiliza presilha PRE-5465 	Obs: Utiliza presilha NYL190
+www.mirandaaluminio.com.br
+ARREMATES
+15
+MMN014
+Peso Kg/m
+0,214
+Peso Barra 6 m
+1,284 Kg
+Arremate
+Obs: Utiliza presilha NYL-190
+
+-- 14 of 215 --
+
+MME013
+Peso Kg/m
+0,268
+Peso Barra 6 m
+1,608 Kg
+Arremate De Piso
+M2878N
+Peso Kg/m
+0,128
+Peso Barra 6 m
+0,765 Kg
+Arremate De Piso
+MCM169
+Peso Kg/m
+0,431
+Peso Barra 6 m
+2,586 Kg
+Arremate De Piso
+www.mirandaaluminio.com.br
+ARREMATES
+16
+MT644
+Peso Kg/m
+0,176
+Peso Barra 6 m
+1,056 Kg
+Arremate De Piso
+
+-- 15 of 215 --
+
+M20212
+Peso Kg/m
+0,292
+Peso Barra 6 m
+1,750 Kg
+Marco Basculante
+M20050
+Peso Kg/m
+0,245
+Peso Barra 6 m
+1,470 Kg
+Marco Basculante
+M20052
+Peso Kg/m
+0,230
+Peso Barra 6 m
+1,380 Kg
+Travessa Basculante
+M20054
+Peso Kg/m
+0,224
+Peso Barra 6 m
+1,344 Kg
+Travessa Basculante
+www.mirandaaluminio.com.br
+LINHA 20
+17
+
+-- 16 of 215 --
+
+M20142
+Peso Kg/m
+0,351
+Peso Barra 6 m
+2,106 Kg
+Suporte Basculante
+M20051
+Peso Kg/m
+0,271
+Peso Barra 6 m
+1,626 Kg
+Montante Vertical
+M20048
+Peso Kg/m
+0,341
+Peso Barra 6 m
+2,046 Kg
+Montante Horizontal
+M20049
+Peso Kg/m
+Peso Barra 6 m
+Montante Horizontal
+2,046 Kg
+0,341
+www.mirandaaluminio.com.br
+LINHA 20
+18
+
+-- 17 of 215 --
+
+M20053
+Peso Kg/m
+0,155
+Peso Barra 6 m
+0,930 Kg
+Complemento Basculante
+M20055
+Peso Kg/m
+0,162
+Peso Barra 6 m
+0,972 Kg
+Complemento Basculante
+M20103
+Peso Kg/m
+0,288
+Peso Barra 6 m
+1,728 Kg
+Marco Basculante
+MBG001
+Peso Kg/m
+0,098
+Peso Barra 6 m
+0,590 Kg
+Baguete Vert. e Horizontal
+www.mirandaaluminio.com.br 19
+LINHA 20
+
+-- 18 of 215 --
+
+MMP357
+Peso Kg/m
+0,598
+Peso Barra 6 m
+3,590 Kg
+Marco Superior
+MMP388
+Peso Kg/m
+0,968
+Peso Barra 6 m
+5,808 Kg
+Travessa Bandeira
+MMP358
+Peso Kg/m
+0,631
+Peso Barra 6 m
+3,786 Kg
+Marco Inferior
+MMP370
+Peso Kg/m
+0,642
+Peso Barra 6 m
+3,852 Kg
+Marco Inferior
+www.mirandaaluminio.com.br
+MÓDULO PRÁTICO
+20
+Sob Consulta
+
+-- 19 of 215 --
+
+MMP360
+Peso Kg/m
+0,442
+Peso Barra 6 m
+2,652 Kg
+Marco Lateral
+MMP397
+Peso Kg/m
+0,412
+Peso Barra 6 m
+2,472 Kg
+Marco Lateral
+MMP363
+Peso Kg/m
+0,539
+Peso Barra 6 m
+3,234 Kg
+Marco Fixo
+MMP361
+Peso Kg/m
+1,078
+Peso Barra 6 m
+6,468 Kg
+Travessa Intermediária
+www.mirandaaluminio.com.br 21
+MÓDULO PRÁTICO
+
+-- 20 of 215 --
+
+MMP309
+Peso Kg/m
+0,429
+Peso Barra 6 m
+2,574 Kg
+Folha Horizontal
+MMP378
+Peso Kg/m
+0,357
+Peso Barra 6 m
+2,142 Kg
+Folha Horizontal
+MMP354
+Peso Kg/m
+0,980
+Peso Barra 6 m
+5,880 Kg
+Folha Horizontal - Porta
+MMP332
+Peso Kg/m
+0,618
+Peso Barra 6 m
+3,708 Kg
+Travessa 60mm
+www.mirandaaluminio.com.br 22
+MÓDULO PRÁTICO
+Sob Consulta
+Sob Consulta
+
+-- 21 of 215 --
+
+MMP300
+Peso Kg/m
+0,334
+Peso Barra 6 m
+2,005 Kg
+Montante Lateral
+MMP336
+Peso Kg/m
+0,499
+Peso Barra 4,6 m
+2,295 Kg
+Montante Lateral
+MMP321
+Peso Kg/m
+0,435
+Peso Barra 6 m
+2,610 Kg
+Mão De Amigo Int. C/ Reforço
+MMP302
+Peso Kg/m
+0,428
+Peso Barra 6 m
+2,570 Kg
+Mão De Amigo Externo
+www.mirandaaluminio.com.br 23
+MÓDULO PRÁTICO
+
+-- 22 of 215 --
+
+MMP070
+Peso Kg/m
+0,599
+Peso Barra 4,6 m
+2,755 Kg
+Mão De Amigo Externo
+MMP393
+Peso Kg/m
+0,257
+Peso Barra 6 m
+1,542 Kg
+Batente Central
+MMP073
+Peso Kg/m
+0,105
+Peso Barra 6 m
+0,630 Kg
+Porta Palheta
+MMP352
+Peso Kg/m
+0,199
+Peso Barra 6 m
+1,194 Kg
+Complemento Marco
+www.mirandaaluminio.com.br 24
+MÓDULO PRÁTICO
+Sob Consulta
+Sob Consulta	Sob Consulta
+MMP069
+Peso Kg/m
+0,639
+Peso Barra 4,6 m
+2,939 Kg
+Mão De Amigo Interno C/ Reforço
+MBG202
+Peso Kg/m
+0,108
+Peso Barra 6 m
+0,648 Kg
+Baguete Perimetral
+
+-- 23 of 215 --
+
+M25311
+Peso Kg/m
+0,318
+Peso Barra 6 m
+1,908 Kg
+Marco Maxim Ar
+M25312
+Peso Kg/m
+0,352
+Peso Barra 6 m
+2,112 Kg
+Marco Maxim Ar
+MMM376
+Peso Kg/m
+0,523
+Peso Barra 6 m
+3,138 Kg
+Coluna Maxim Ar
+MME056
+Peso Kg/m
+0,197
+Peso Barra 6 m
+1,182 Kg
+Pingadeira Maxim Ar
+www.mirandaaluminio.com.br 25
+MÓDULO PRÁTICO
+
+-- 24 of 215 --
+
+M25308
+Peso Kg/m
+0,457
+Peso Barra 6 m
+2,742 Kg
+Travessa Maxim Ar
+MMM377
+Arremate
+Peso Kg/m
+0,120
+Peso Barra 6 m
+0,720 Kg
+www.mirandaaluminio.com.br 26
+MÓDULO PRÁTICO
+Sob Consulta
+
+-- 25 of 215 --
+
+M25301
+Peso Kg/m
+0,350
+Peso Barra 6 m
+2,100 Kg
+Folha Maxim Ar
+MMM375
+Peso Kg/m
+0,380
+Peso Barra 6 m
+2,280 Kg
+Folha Maxim Ar
+MBG035
+Peso Kg/m
+0,122
+Peso Barra 6 m
+0,732 Kg
+Baguete Perimetral
+www.mirandaaluminio.com.br 27
+MÓDULO PRÁTICO
+
+-- 26 of 215 --
+
+MME034
+Peso Kg/m
+0,536
+Peso Barra 6 m
+3,213 Kg
+Marco Inferior 2 Planos
+MME035
+Peso Kg/m
+0,900
+Peso Barra 6 m
+5,399 Kg
+Marco Inferior 3 Planos
+www.mirandaaluminio.com.br
+MÓDULO ESPECIAL
+28
+Sob Consulta
+Sob Consulta
+
+-- 27 of 215 --
+
+MME071
+Peso Kg/m
+0,382
+Peso Barra 6 m
+2,290 Kg
+Montante Vertical
+MME072
+Peso Kg/m
+0,334
+Peso Barra 6 m
+2,004 Kg
+MME079
+Peso Kg/m
+0,133
+Peso Barra 6 m
+0,798 Kg
+Baguete Perimetral
+MME086
+Peso Kg/m
+0,132
+Peso Barra 6 m
+0,792 Kg
+Montante Vertical
+Baguete Perimetral
+www.mirandaaluminio.com.br 29
+MÓDULO ESPECIAL
+
+-- 28 of 215 --
+
+MME074
+Peso Kg/m
+0,508
+Peso Barra 6 m
+3,049 Kg
+Marco Porta De Giro
+MME075
+Peso Kg/m
+0,563
+Peso Barra 6 m
+3,380 Kg
+Montante Porta De Giro
+MME078
+Peso Kg/m
+1,157
+Peso Barra 6 m
+6,942 Kg
+Folha Horizontal
+MME178
+Peso Kg/m
+0,528
+Peso Barra 6 m
+3,168 Kg
+Folha Horizontal
+www.mirandaaluminio.com.br 30
+MÓDULO ESPECIAL
+MME073
+Peso Kg/m
+0,512
+Peso Barra 4,6 m
+2,355 Kg
+Marco Porta De Giro
+MME100
+Peso Kg/m
+0,978
+Peso Barra 6 m
+5,870 Kg
+Folha Porta De Giro / Pivotante
+
+-- 29 of 215 --
+
+M25515
+Peso Kg/m
+0,685
+Peso Barra 6 m
+4,110 Kg
+Marco Inferior
+M25510
+Peso Kg/m
+0,173
+Peso Barra 6 m
+1,038 Kg
+Trilho Simples
+M25514
+Peso Kg/m
+0,472
+Peso Barra 6 m
+2,832 Kg
+Marco Lateral
+M25021
+Peso Kg/m
+0,205
+Peso Barra 6 m
+1,230 Kg
+Batente Central
+www.mirandaaluminio.com.br
+LINHA 25
+31
+Sob Consulta	Sob Consulta
+
+-- 30 of 215 --
+
+M25502
+Peso Kg/m
+0,700
+Peso Barra 6 m
+4,200 Kg
+Folha Horizontal
+M25016
+Peso Kg/m
+0,420
+Peso Barra 6 m
+2,520 Kg
+Montante Lateral
+M25504
+Peso Kg/m
+0,523
+Peso Barra 6 m
+3,140 Kg
+Montante Lateral
+www.mirandaaluminio.com.br 32
+LINHA 25
+Sob Consulta
+
+-- 31 of 215 --
+
+M25506
+Peso Kg/m
+0,495
+Peso Barra 4,6 m
+2,970 Kg
+Mão De Amigo Interno
+M25507
+Peso Kg/m
+0,572
+Peso Barra 4,6 m
+3,431 Kg
+Mão De Amigo Externo
+www.mirandaaluminio.com.br 33
+LINHA 25
+Sob Consulta
+Sob Consulta
+
+-- 32 of 215 --
+
+M25027
+Peso Kg/m
+0,271
+Peso Barra 6 m
+1,626 Kg
+Marco Fixo
+M25002
+Peso Kg/m
+0,351
+Peso Barra 6 m
+2,106 Kg
+Marco Perimetral
+MCL015
+Peso Kg/m
+0,210
+Peso Barra 6 m
+1,260 Kg
+Pingadeira Maxim Ar
+M25669
+Peso Kg/m
+0,634
+Peso Barra 6 m
+3,804 Kg
+Coluna
+www.mirandaaluminio.com.br 34
+LINHA 25
+Sob Consulta 	Sob Consulta
+M25022
+Peso Kg/m
+0,403
+Peso Barra 6 m
+2,418 Kg
+Marco Perimetral
+
+-- 33 of 215 --
+
+M25677
+Peso Kg/m
+0,211
+Peso Barra 6 m
+1,266 Kg
+Arremate
+Peso Kg/m
+Peso Barra 6 m
+	M25001 0,322
+1,932 Kg
+Montante Da Folha
+M25018
+Peso Kg/m
+0,425
+Peso Barra 6 m
+2,550 Kg
+Montante Da Folha
+M25005
+Peso Kg/m
+0,422
+Peso Barra 6 m
+2,532 Kg
+Montante Da Folha
+www.mirandaaluminio.com.br 35
+LINHA 25
+
+-- 34 of 215 --
+
+M25026
+Peso Kg/m
+0,488
+Peso Barra 6 m
+2,928 Kg
+Travessa / Coluna
+M25508
+Peso Kg/m
+0,713
+Peso Barra 6 m
+4,280 Kg
+Coluna / Travessa
+M25554
+Peso Kg/m
+0,310
+Peso Barra 6 m
+1,860 Kg
+Inversor
+www.mirandaaluminio.com.br 36
+LINHA 25
+MVZ037
+Peso Kg/m
+0,155
+Peso Barra 6 m
+0,930 Kg
+Porta Palheta
+Sob Consulta
+
+-- 35 of 215 --
+
+MDS036
+Peso Kg/m
+0,152
+Peso Barra 6 m
+0,912 Kg
+Porta Palheta
+MCL050
+Peso Kg/m
+0,140
+Peso Barra 6 m
+0,840 Kg
+Arremate
+www.mirandaaluminio.com.br 37
+LINHA 25
+MBG010
+Peso Kg/m
+0,120
+Peso Barra 6 m
+0,720 Kg
+Baguete Vert. e Horizontal
+MBG001
+Peso Kg/m
+0,098
+Peso Barra 6 m
+0,590 Kg
+Baguete Vert. e Horizontal
+
+-- 36 of 215 --
+
+M25540
+Peso Kg/m
+0,463
+Peso Barra 6 m
+2,780 Kg
+Marco Porta De Giro
+M25548
+Peso Kg/m
+0,281
+Peso Barra 6 m
+1,686 Kg
+Batente Porta De Giro
+M25546
+Peso Kg/m
+0,650
+Peso Barra 6 m
+3,900 Kg
+Folha Porta De Giro
+M25542
+Peso Kg/m
+0,600
+Peso Barra 6 m
+3,600 Kg
+Folha Porta De Giro
+www.mirandaaluminio.com.br 38
+LINHA 25
+
+-- 37 of 215 --
+
+M30067
+Peso Kg/m
+1,188
+Peso Barra 6 m
+7,125 Kg
+Coluna
+M30089
+Peso Kg/m
+0,558
+Peso Barra 6 m
+3,348 Kg
+Marco Lateral
+www.mirandaaluminio.com.br 39
+LINHA 30
+Sob Consulta
+
+-- 38 of 215 --
+
+M30019
+Peso Kg/m
+0,295
+Peso Barra 6 m
+1,770 Kg
+Batente central
+M30056
+Peso Kg/m
+0,340
+Peso Barra 6 m
+2,040 Kg
+Inversor
+M30008
+Peso Kg/m
+0,693
+Peso Barra 6 m
+4,160 Kg
+Montante Da Folha
+M30052
+Peso Kg/m
+0,336
+Peso Barra 6 m
+2,016 Kg
+Marco Fixo
+www.mirandaaluminio.com.br 40
+LINHA 30
+Sob Consulta 	Sob Consulta
+Sob Consulta 	Sob Consulta
+
+-- 39 of 215 --
+
+M30054
+Peso Kg/m
+0,435
+Peso Barra 6 m
+2,610 Kg
+Marco Perimetral
+M30235
+Peso Kg/m
+0,744
+Peso Barra 6 m
+4,464 Kg
+Coluna Maxim Ar
+M30051
+Peso Kg/m
+0,408
+Peso Barra 6 m
+2,448 Kg
+Folha Maxim Ar
+M30049
+Peso Kg/m
+0,533
+Peso Barra 6 m
+3,198 Kg
+Folha Maxim Ar
+www.mirandaaluminio.com.br 41
+LINHA 30
+Sob Consulta 	Sob Consulta
+Sob Consulta 	Sob Consulta
+
+-- 40 of 215 --
+
+M30036
+Peso Kg/m
+0,590
+Peso Barra 6 m
+3,540 Kg
+Travessa 35mm
+M30025
+Peso Kg/m
+0,793
+Peso Barra 6 m
+4,758 Kg
+Travessa 56mm
+M30030
+Peso Kg/m
+1,097
+Peso Barra 6 m
+6,580 Kg
+Travessa 100mm
+M30028
+Peso Kg/m
+1,378
+Peso Barra 6 m
+8,268 Kg
+Folha Horizontal
+www.mirandaaluminio.com.br 42
+LINHA 30
+Sob Consulta
+
+-- 41 of 215 --
+
+M30023
+Peso Kg/m
+0,517
+Peso Barra 6 m
+3,100 Kg
+Marco Porta De Giro
+M30034
+Peso Kg/m
+0,297
+Peso Barra 6 m
+1,782 Kg
+Batente Porta De Giro
+M30026
+Peso Kg/m
+0,718
+Peso Barra 6 m
+4,305 Kg
+Folha Porta De Giro
+M30033
+Peso Kg/m
+1,030
+Peso Barra 6 m
+6,180 Kg
+Folha Porta Giro / Pivotante
+www.mirandaaluminio.com.br 43
+LINHA 30
+Sob Consulta
+
+-- 42 of 215 --
+
+M30082
+Peso Kg/m
+1,195
+Peso Barra 6 m
+7,170 Kg
+Folha Porta De Giro
+M30083
+Peso Kg/m
+1,150
+Peso Barra 6 m
+6,900 Kg
+Folha Porta De Giro / Pivotante
+www.mirandaaluminio.com.br 44
+LINHA 30
+
+-- 43 of 215 --
+
+M30085
+Peso Kg/m
+1,633
+Peso Barra 6 m
+9,800 Kg
+Lambri Duplo
+M30087
+Peso Kg/m
+1,633
+Peso Barra 6 m
+9,800 Kg
+Lambri Duplo
+www.mirandaaluminio.com.br 45
+LINHA 30
+Sob Consulta
+MEI015
+Peso Kg/m
+0,458
+Peso Barra 6 m
+2,750 Kg
+Lambri Friso
+
+-- 44 of 215 --
+
+MEI013
+Peso Kg/m
+0,897
+Peso Barra 6 m
+5,380 Kg
+Marco Superior Pivotante
+MEI012
+Peso Kg/m
+0,830
+Peso Barra 6 m
+4,980 Kg
+Marco Lateral Pivotante
+www.mirandaaluminio.com.br 46
+LINHA 30
+
+-- 45 of 215 --
+
+M42012
+Peso Kg/m
+0,822
+Peso Barra 6 m
+4,932 Kg
+Marco Porta De Giro
+M42014
+Peso Kg/m
+0,349
+Peso Barra 6 m
+2,094 Kg
+Batente Porta De Giro
+M42032
+Peso Kg/m
+1,356
+Peso Barra 6 m
+8,136 Kg
+Folha Porta De Giro 100mm
+www.mirandaaluminio.com.br 47
+LINHA 42
+MBG023
+Peso Kg/m
+0,202
+Peso Barra 6 m
+1,212 Kg
+Baguete Perimetral
+Sob Consulta
+
+-- 46 of 215 --
+
+M42007
+Peso Kg/m
+1,245
+Peso Barra 6 m
+7,470 Kg
+Travessa 100mm
+M42008
+Peso Kg/m
+0,442
+Peso Barra 6 m
+2,650 Kg
+Batente Central
+www.mirandaaluminio.com.br 48
+LINHA 42
+MBG037
+Peso Kg/m
+0,211
+Peso Barra 6 m
+1,266 Kg
+Baguete Perimetral
+
+-- 47 of 215 --
+
+MSU001
+Peso Kg/m
+0,700
+Peso Barra 6 m
+4,200 Kg
+Marco Superior 2 Planos
+MSU003
+Peso Kg/m
+0,523
+Peso Barra 6 m
+3,138 Kg
+Marco Lateral 2 Planos
+MSU002
+Peso Kg/m
+0,647
+Peso Barra 6 m
+3,880 Kg
+Marco Inferior 2 Planos
+MSU007
+Peso Kg/m
+0,367
+Peso Barra 6 m
+2,200 Kg
+Marco Lateral 2 Planos
+www.mirandaaluminio.com.br
+MIRANDA 25
+49
+MSU303
+Peso Kg/m
+0,485
+Peso Barra 6 m
+2,908 Kg
+Marco Lateral 2 Planos
+
+-- 48 of 215 --
+
+MSU271
+Peso Kg/m
+0,348
+Peso Barra 6 m
+2,088 Kg
+Trilho Inferior Simples
+MSU004
+Peso Kg/m
+0,457
+Peso Barra 6 m
+2, Kg
+Marco Bandeira / Peitoril
+MSU228
+Peso Kg/m
+0,688
+Peso Barra 6 m
+4,128 Kg
+Marco Inferior 2 Planos
+MSU021
+Peso Kg/m
+0,715
+Peso Barra 6 m
+4,290 Kg
+Marco Inferior 2 Planos
+www.mirandaaluminio.com.br 50
+MIRANDA 25
+
+-- 49 of 215 --
+
+MSU005
+Peso Kg/m
+0,998
+Peso Barra 6 m
+5,990 Kg
+Travessa Bandeira
+MSU036
+Peso Kg/m
+0,467
+Peso Barra 6 m
+2,800 Kg
+Travessa Bandeira / Peitoril
+MSU006
+Peso Kg/m
+0,875
+Peso Barra 6 m
+5,250 Kg
+Travessa Peitoril
+MSU009
+Peso Kg/m
+0,908
+Peso Barra 6 m
+5,448 Kg
+Coluna / Travessa
+www.mirandaaluminio.com.br 51
+MIRANDA 25
+
+-- 50 of 215 --
+
+MSU024
+Peso Kg/m
+1,024
+Peso Barra 6 m
+6,144 Kg
+Marco Superior - Camarão
+MSU025
+Peso Kg/m
+0,973
+Peso Barra 6 m
+5,838 Kg
+Marco Inferior - Camarão
+www.mirandaaluminio.com.br 52
+MIRANDA 25
+
+-- 51 of 215 --
+
+MSU010
+Peso Kg/m
+0,992
+Peso Barra 6 m
+5,950 Kg
+Marco Superior 3 Planos
+MSU011
+Peso Kg/m
+0,918
+Peso Barra 6 m
+5,510 Kg
+Marco Inferior 3 Planos
+www.mirandaaluminio.com.br 53
+MIRANDA 25
+
+-- 52 of 215 --
+
+MSU230
+Peso Kg/m
+0,971
+Peso Barra 6 m
+5,825 Kg
+Marco Inferior 3 Planos
+MSU018
+Peso Kg/m
+0,659
+Peso Barra 6 m
+3,954 Kg
+Marco Bandeira / Peitoril
+MSU019
+Peso Kg/m
+1,683
+Peso Barra 6 m
+10,100 Kg
+Travessa Bandeira
+www.mirandaaluminio.com.br 54
+MIRANDA 25
+
+-- 53 of 215 --
+
+MSU013
+Peso Kg/m
+0,722
+Peso Barra 6 m
+4,330 Kg
+Marco Lateral 3 Planos
+MSU014
+Peso Kg/m
+0,677
+Peso Barra 6 m
+4,061 Kg
+Marco Lateral 3 Planos
+MSU012
+Peso Kg/m
+0,517
+Peso Barra 6 m
+3,100 Kg
+Marco Lateral 3 Planos
+www.mirandaaluminio.com.br 55
+MIRANDA 25
+
+-- 54 of 215 --
+
+MSU121
+Peso Kg/m
+1,517
+Peso Barra 6 m
+9,100 Kg
+Marco Superior 4 Planos
+MSU122
+Peso Kg/m
+1,512
+Peso Barra 6 m
+9,072 Kg
+Marco Inferior 4 Planos
+MSU123
+Peso Kg/m
+0,919
+Peso Barra 6 m
+5,514 Kg
+Marco Lateral 4 Planos
+www.mirandaaluminio.com.br 56
+MIRANDA 25
+MSU122
+Peso Kg/m
+1,183
+Peso Barra 6 m
+7,100 Kg
+Marco Inferior 4 Planos
+
+-- 55 of 215 --
+
+MSU008
+Peso Kg/m
+0,244
+Peso Barra 6 m
+1,464 Kg
+Mata Junta Lateral / Central
+MSU107
+Peso Kg/m
+0,271
+Peso Barra 6 m
+1,626 Kg
+Vedação De Montante
+MSU302
+Peso Kg/m
+0,267
+Peso Barra 6 m
+1,600 Kg
+Mata Junta Lateral / Central
+www.mirandaaluminio.com.br 57
+MIRANDA 25
+MSU114
+Peso Kg/m
+0,167
+Peso Barra 6 m
+1,000 Kg
+Trilho Cogumelo
+MSU112
+Peso Kg/m
+0,231
+Peso Barra 6 m
+1,386 Kg
+Trilho Cogumelo
+MSU334
+Peso Kg/m
+0,354
+Peso Barra 6 m
+2,121 Kg
+Mata Junta Lateral / Central
+
+-- 56 of 215 --
+
+MSU053
+Peso Kg/m
+0,475
+Peso Barra 6 m
+2,850 Kg
+Folha Horizontal
+MSU246
+Peso Kg/m
+0,687
+Peso Barra 6 m
+4,120 Kg
+Folha Horizontal
+MSU225
+Peso Kg/m
+0,989
+Peso Barra 6 m
+5,934 Kg
+Folha Horizontal
+MSU227
+Peso Kg/m
+0,550
+Peso Barra 6 m
+3,300 Kg
+Travessa Horizontal 57mm
+www.mirandaaluminio.com.br 58
+MIRANDA 25
+
+-- 57 of 215 --
+
+MSU050
+Peso Kg/m
+0,921
+Peso Barra 6 m
+5,526 Kg
+Travessa Horizontal 100mm
+MSU038
+Peso Kg/m
+0,545
+Peso Barra 6 m
+3,270 Kg
+Montante Vertical 90º
+www.mirandaaluminio.com.br 59
+MIRANDA 25
+MSU300
+Peso Kg/m
+0,767
+Peso Barra 6 m
+4,600 Kg
+Folha Horizontal
+MSU247
+Peso Kg/m
+1,064
+Peso Barra 6 m
+6,384 Kg
+Travessa Horizontal 100mm
+
+-- 58 of 215 --
+
+MSU039
+Peso Kg/m
+0,520
+Peso Barra 6 m
+3,120 Kg
+Montante Lateral
+MSU250
+Peso Kg/m
+0,736
+Peso Barra 6 m
+4,416 Kg
+Montante Lateral Com Reforço
+MSU192
+Peso Kg/m
+0,482
+Peso Barra 6 m
+2,890 Kg
+Montante Central
+www.mirandaaluminio.com.br 60
+MIRANDA 25
+Sob Consulta
+MSU339
+Peso Kg/m
+0,453
+Peso Barra 6 m
+2,720 Kg
+Montante Lateral
+
+-- 59 of 215 --
+
+MSU040
+Peso Kg/m
+0,480
+Peso Barra 6 m
+2,880 Kg
+Mão De Amigo Interno
+MSU041
+Peso Kg/m
+0,500
+Peso Barra 6 m
+3,000 Kg
+Mão De Amigo Externo
+MSU042
+Peso Kg/m
+0,564
+Peso Barra 6 m
+3,383 Kg
+Mão De Amigo Central
+www.mirandaaluminio.com.br 61
+MIRANDA 25
+MSU342
+Peso Kg/m
+0,448
+Peso Barra 6 m
+2,688 Kg
+Mão De Amigo Central
+MSU340
+Peso Kg/m
+0,391
+Peso Barra 6 m
+2,346 Kg
+Mão De Amigo Interno
+MSU341
+Peso Kg/m
+0,418
+Peso Barra 6 m
+2,510 Kg
+Mão De Amigo Externo
+
+-- 60 of 215 --
+
+MSU047
+Peso Kg/m
+0,947
+Peso Barra 6 m
+5,680 Kg
+Mão De Amigo Int. C/ Reforço
+MSU049
+Peso Kg/m
+0,935
+Peso Barra 6 m
+5,608 Kg
+Mão De Amigo Ext. C/ Reforço
+www.mirandaaluminio.com.br 62
+MIRANDA 25
+MSU347
+Peso Kg/m
+0,634
+Peso Barra 6 m
+3,804 Kg
+Mão De Amigo Int. C/ Reforço
+MSU349
+Peso Kg/m
+0,646
+Peso Barra 6 m
+3,876 Kg
+Mão De Amigo Ext. C/ Reforço
+MSU447
+Peso Kg/m
+0,664
+Peso Barra 6 m
+3,984 Kg
+Mão De Amigo Int. C/ Reforço
+MSU449
+Peso Kg/m
+0,670
+Peso Barra 6 m
+4,020 Kg
+Mão De Amigo Ext. C/ Reforço
+
+-- 61 of 215 --
+
+MSU343
+Peso Kg/m
+0,869
+Peso Barra 4,6 m
+3,997 Kg
+Mão De Amigo Int. C/ Reforço
+MSU344
+Peso Kg/m
+0,870
+Peso Barra 4,6 m
+4,000 Kg
+Mão De Amigo Ext. C/ Reforço
+www.mirandaaluminio.com.br 63
+MIRANDA 25
+Sob Consulta
+Sob Consulta
+
+-- 62 of 215 --
+
+MSU245
+Peso Kg/m
+0,687
+Peso Barra 6 m
+4,120 Kg
+Montante Lateral
+MSU280
+Peso Kg/m
+0,978
+Peso Barra 6 m
+5,869 Kg
+Montante Lateral C/ Reforço
+MSU244
+Peso Kg/m
+0,633
+Peso Barra 6 m
+3,800 Kg
+Montante Central
+MSU281
+Peso Kg/m
+1,066
+Peso Barra 6 m
+6,395 Kg
+Montante Central C/ Reforço
+www.mirandaaluminio.com.br 64
+MIRANDA 25
+Sob Consulta
+
+-- 63 of 215 --
+
+MSU299
+Peso Kg/m
+0,967
+Peso Barra 6 m
+5,800 Kg
+Folha Lateral Reforçada
+MSU242
+Peso Kg/m
+0,741
+Peso Barra 6 m
+4,446 Kg
+Mão De Amigo Externo
+www.mirandaaluminio.com.br 65
+MIRANDA 25
+MSU243
+Peso Kg/m
+0,712
+Peso Barra 6 m
+4,270 Kg
+Mão De Amigo Interno
+MSU380
+Peso Kg/m
+0,721
+Peso Barra 6 m
+4,326 Kg
+Montante Lateral C/ Reforço
+
+-- 64 of 215 --
+
+MSU289
+Peso Kg/m
+1,086
+Peso Barra 6 m
+6,515 Kg
+Mão De Amigo Int. C/ Reforço
+MSU290
+Peso Kg/m
+1,138
+Peso Barra 6 m
+6,830 Kg
+Mão De Amigo Ext. C/ Reforço
+www.mirandaaluminio.com.br 66
+MIRANDA 25
+
+-- 65 of 215 --
+
+MSU186
+Peso Kg/m
+0,483
+Peso Barra 6 m
+2,900 Kg
+Folha Horizontal
+MSU188
+Peso Kg/m
+0,553
+Peso Barra 6 m
+3,320 Kg
+Travessa 50mm
+MSU226
+Peso Kg/m
+1,014
+Peso Barra 6 m
+6,084 Kg
+Folha Horizontal
+MSU057
+Peso Kg/m
+0,631
+Peso Barra 6 m
+3,786 Kg
+Mão De Amigo Central
+www.mirandaaluminio.com.br 67
+MIRANDA 25
+
+-- 66 of 215 --
+
+MSU288
+Peso Kg/m
+0,238
+Peso Barra 6 m
+1,430 Kg
+Travessa Horizontal
+MSU063
+Peso Kg/m
+0,951
+Peso Barra 6 m
+5,706 Kg
+Travessa Horizontal
+www.mirandaaluminio.com.br 68
+MIRANDA 25
+MSU287
+Peso Kg/m
+0,269
+Peso Barra 6 m
+1,614 Kg
+Travessa Horizontal
+
+-- 67 of 215 --
+
+MSU055
+Peso Kg/m
+0,545
+Peso Barra 6 m
+3,270 Kg
+Montante Lateral
+MSU238
+Peso Kg/m
+0,714
+Peso Barra 6 m
+4,284 Kg
+Montante Lateral
+MSU060
+Peso Kg/m
+0,978
+Peso Barra 4,6 m
+4,499 Kg
+Montante Lateral C/ Reforço
+MSU056
+Peso Kg/m
+0,539
+Peso Barra 6 m
+3,233 Kg
+Mão De Amigo
+www.mirandaaluminio.com.br 69
+MIRANDA 25
+
+-- 68 of 215 --
+
+MSU190
+Peso Kg/m
+0,543
+Peso Barra 6 m
+3,258 Kg
+Montante Central
+MSU240
+Peso Kg/m
+0,771
+Peso Barra 6 m
+4,626 Kg
+Montante Central
+MSU061
+Peso Kg/m
+1,062
+Peso Barra 6 m
+6,371 Kg
+Mão De Amigo C/ Reforço
+MSU239
+Peso Kg/m
+0,783
+Peso Barra 6 m
+4,698 Kg
+Mão De Amigo
+www.mirandaaluminio.com.br
+MIRANDA 25
+70
+Sob Consulta
+
+-- 69 of 215 --
+
+MSU068
+Peso Kg/m
+0,534
+Peso Barra 6 m
+3,204 Kg
+Montante Lateral Veneziana
+MSU191
+Peso Kg/m
+0,533
+Peso Barra 6 m
+3,200 Kg
+Montante Central Veneziana
+MSU070
+Peso Kg/m
+0,525
+Peso Barra 6 m
+3,150 Kg
+Mão De Amigo Veneziana
+MSU069
+Peso Kg/m
+0,575
+Peso Barra 6 m
+3,450 Kg
+Mão De Amigo Central
+Veneziana
+www.mirandaaluminio.com.br 71
+MIRANDA 25
+
+-- 70 of 215 --
+
+MSU187
+Peso Kg/m
+0,512
+Peso Barra 6 m
+3,072 Kg
+Folha Horizontal Veneziana
+MSU071
+Peso Kg/m
+0,276
+Peso Barra 6 m
+1,656 Kg
+Marco Camarão
+MSU074
+Peso Kg/m
+0,501
+Peso Barra 6 m
+3,006 Kg
+Montante Vertical Com Aba
+MSU072
+Peso Kg/m
+0,439
+Peso Barra 6 m
+2,634 Kg
+Montante Vertical
+www.mirandaaluminio.com.br 72
+MIRANDA 25
+
+-- 71 of 215 --
+
+MSU073
+Peso Kg/m
+0,447
+Peso Barra 6 m
+2,682 Kg
+Folha Horizontal - Camarão
+MSU093
+Peso Kg/m
+0,282
+Peso Barra 6 m
+1,692 Kg
+Marco Basculante
+MSU094
+Peso Kg/m
+0,371
+Peso Barra 6 m
+2,226 Kg
+Coluna Basculante
+www.mirandaaluminio.com.br 73
+MIRANDA 25
+
+-- 72 of 215 --
+
+MSU095
+Peso Kg/m
+0,225
+Peso Barra 6 m
+1,350 Kg
+Travessa Basculante
+MSU099
+Peso Kg/m
+0,230
+Peso Barra 6 m
+1,380 Kg
+Inversor Fixo
+MSU096
+Peso Kg/m
+0,314
+Peso Barra 6 m
+1,884 Kg
+Montante Vertical
+MSU100
+Peso Kg/m
+0,157
+Peso Barra 6 m
+0,942 Kg
+Complemento Da Folha
+www.mirandaaluminio.com.br 74
+MIRANDA 25
+
+-- 73 of 215 --
+
+MSU097
+Peso Kg/m
+0,401
+Peso Barra 6 m
+2,406 Kg
+Folha Basculante
+MSU098
+Peso Kg/m
+Peso Barra 6 m
+Folha Basculante
+2,406 Kg
+0,401
+www.mirandaaluminio.com.br 75
+MIRANDA 25
+
+-- 74 of 215 --
+
+MIT001
+Peso Kg/m
+0,687
+Peso Barra 6 m
+4,120 Kg
+Marco Superior
+MIT002
+Peso Kg/m
+0,778
+Peso Barra 6 m
+4,670 Kg
+Travessa Intermediária
+MIT020
+Peso Kg/m
+1,174
+Peso Barra 6 m
+7,044 Kg
+Travessa Intermediária
+www.mirandaaluminio.com.br 76
+MIRANDA 25
+Sob Consulta
+
+-- 75 of 215 --
+
+MN010
+Peso Kg/m
+1,495
+Peso Barra 6 m
+8,970 Kg
+Marco Inferior
+MIT003
+Peso Kg/m
+0,975
+Peso Barra 6 m
+5,850 Kg
+Marco Inferior
+www.mirandaaluminio.com.br 77
+MIRANDA 25
+
+-- 76 of 215 --
+
+MIT010
+Peso Kg/m
+0,535
+Peso Barra 6 m
+3,210 Kg
+Marco Lateral
+MIT004
+Peso Kg/m
+0,950
+Peso Barra 6 m
+5,700 Kg
+Marco Lateral - Manual
+www.mirandaaluminio.com.br 78
+MIRANDA 25
+
+-- 77 of 215 --
+
+MIT100
+Peso Kg/m
+0,873
+Peso Barra 6 m
+5,235 Kg
+Marco Superior
+MIT176
+Peso Kg/m
+1,518
+Peso Barra 6 m
+9,108 Kg
+Travessa Intermediária
+MIT178
+Peso Kg/m
+1,070
+Peso Barra 6 m
+6,420 Kg
+Marco Superior
+www.mirandaaluminio.com.br 79
+MIRANDA 25
+
+-- 78 of 215 --
+
+MIT101
+Peso Kg/m
+1,498
+Peso Barra 6 m
+8,990 Kg
+Travessa Intermediária
+MIT177
+Peso Kg/m
+1,368
+Peso Barra 6 m
+8,210 Kg
+Marco Inferior
+www.mirandaaluminio.com.br 80
+MIRANDA 25
+
+-- 79 of 215 --
+
+MLG070
+Peso Kg/m
+0,797
+Peso Barra 6 m
+4,780 Kg
+Marco Lateral
+MN050
+Peso Kg/m
+0,683
+Peso Barra 6 m
+4,100 Kg
+Marco Lateral - Manual
+www.mirandaaluminio.com.br 81
+MIRANDA 25
+
+-- 80 of 215 --
+
+MIT007
+Peso Kg/m
+0,748
+Peso Barra 6 m
+4,490 Kg
+Tampa Externa
+MIT006
+Peso Kg/m
+0,769
+Peso Barra 6 m
+4,615 Kg
+Tampa Interna
+www.mirandaaluminio.com.br 82
+MIRANDA 25
+
+-- 81 of 215 --
+
+MMH008
+Peso Kg/m
+0,777
+Peso Barra 6 m
+4,663 Kg
+Tampa Externa
+MMH007
+Peso Kg/m
+0,883
+Peso Barra 6 m
+5,298 Kg
+Tampa Interna
+www.mirandaaluminio.com.br 83
+MIRANDA 25
+
+-- 82 of 215 --
+
+MIT015
+Peso Kg/m
+1,017
+Peso Barra 6 m
+6,100 Kg
+Tampa Externa
+MIT016
+Peso Kg/m
+1,300
+Peso Barra 6 m
+7,800 Kg
+Tampa Interna
+www.mirandaaluminio.com.br 84
+MIRANDA 25
+
+-- 83 of 215 --
+
+www.mirandaaluminio.com.br 85
+MIRANDA 25
+MIT019
+Peso Kg/m
+0,983
+Peso Barra 6 m
+5,900 Kg
+Tampa Interna
+MIT110
+Peso Kg/m
+1,391
+Peso Barra 6 m
+8,346 Kg
+Tampa Interna
+
+-- 84 of 215 --
+
+www.mirandaaluminio.com.br 86
+MIRANDA 25
+MIT039
+Peso Kg/m
+1,250
+Peso Barra 6 m
+7,498 Kg
+Tampa Externa
+
+-- 85 of 215 --
+
+MDS238
+Peso Kg/m
+0,525
+Peso Barra 6 m
+3,150 Kg
+Tubo Recolhedor - 40mm
+MN015
+Peso Kg/m
+0,881
+Peso Barra 6 m
+5,286 Kg
+Tubo Recolhedor - 60mm
+www.mirandaaluminio.com.br 87
+MIRANDA 25
+
+-- 86 of 215 --
+
+MIT005
+Peso Kg/m
+0,650
+Peso Barra 6 m
+3,900 Kg
+Guia Lateral
+MN007
+Peso Kg/m
+0,683
+Peso Barra 6 m
+4,100 Kg
+Guia Da Persiana
+MN055
+Peso Kg/m
+0,394
+Peso Barra 6 m
+2,365 Kg
+Terminal Da Persiana
+MN027
+Peso Kg/m
+1,043
+Peso Barra 6 m
+6,258 Kg
+Guia Da Persiana
+www.mirandaaluminio.com.br 88
+MIRANDA 25
+MIT018
+Peso Kg/m
+0,892
+Peso Barra 6 m
+5,352 Kg
+Guia Da Persiana
+
+-- 87 of 215 --
+
+MSU079
+Peso Kg/m
+0,326
+Peso Barra 6 m
+1,955 Kg
+Marco Maxim Ar
+MSU083
+Peso Kg/m
+0,144
+Peso Barra 6 m
+0,864 Kg
+Pingadeira Maxim Ar
+MSU086
+Peso Kg/m
+0,596
+Peso Barra 6 m
+3,576 Kg
+Coluna Maxim Ar
+MSU085
+Peso Kg/m
+0,501
+Peso Barra 6 m
+3,006 Kg
+Travessa Maxim Ar
+www.mirandaaluminio.com.br 89
+MIRANDA 25
+
+-- 88 of 215 --
+
+MSU292
+Peso Kg/m
+0,221
+Peso Barra 6 m
+1,328 Kg
+Inversor De Baguetes
+MSU088
+Peso Kg/m
+0,312
+Peso Barra 6 m
+1,872 Kg
+Marco Fixo
+MSU200
+Peso Kg/m
+0,400
+Peso Barra 6 m
+2,400 Kg
+Montante Maxim Ar
+MSU080
+Peso Kg/m
+0,357
+Peso Barra 6 m
+2,142 Kg
+Montante Maxim Ar
+www.mirandaaluminio.com.br 90
+MIRANDA 25
+
+-- 89 of 215 --
+
+MSU082
+Peso Kg/m
+0,325
+Peso Barra 6 m
+1,950 Kg
+Montante Horizontal Maxim Ar
+MSU084
+Peso Kg/m
+0,125
+Peso Barra 6 m
+0,750 Kg
+Arremate Da Folha Maxim Ar
+MSU081
+Peso Kg/m
+0,409
+Peso Barra 6 m
+2,454 Kg
+Montante Vertical Maxim Ar
+www.mirandaaluminio.com.br 91
+MIRANDA 25
+
+-- 90 of 215 --
+
+MSU091
+Peso Kg/m
+0,375
+Peso Barra 6 m
+2,250 Kg
+MSU090
+Peso Kg/m
+0,407
+Peso Barra 6 m
+2,440 Kg
+Montante Horizontal Maxim Ar 	Montante Vertical Maxim Ar
+www.mirandaaluminio.com.br 92
+MIRANDA 25
+
+-- 91 of 215 --
+
+MSU279
+Peso Kg/m
+0,565
+Peso Barra 6 m
+3,390 Kg
+Marco Porta De Giro
+M25548
+Peso Kg/m
+0,281
+Peso Barra 6 m
+1,686 Kg
+Batente Porta De Giro
+MSU111
+Peso Kg/m
+0,617
+Peso Barra 6 m
+3,700 Kg
+Montante Da Folha De Giro
+MSU110
+Peso Kg/m
+0,534
+Peso Barra 6 m
+3,204 Kg
+Montante Horizontal
+www.mirandaaluminio.com.br 93
+MIRANDA 25
+
+-- 92 of 215 --
+
+MSU241
+Peso Kg/m
+0,681
+Peso Barra 6 m
+4,086 Kg
+Montante Sem Baguete
+MSU120
+Peso Kg/m
+0,482
+Peso Barra 6 m
+2,891 Kg
+Montante Da Folha
+www.mirandaaluminio.com.br 94
+MIRANDA 25
+MSU350
+Peso Kg/m
+0,771
+Peso Barra 6 m
+4,626 Kg
+Montante Da Folha
+
+-- 93 of 215 --
+
+MSU104
+Peso Kg/m
+0,111
+Peso Barra 6 m
+0,666 Kg
+Baguete Vertical
+MSU108
+Peso Kg/m
+0,146
+Peso Barra 6 m
+0,876 Kg
+Baguete Veneziana
+MSU102
+Peso Kg/m
+0,111
+Peso Barra 6 m
+0,666 Kg
+Baguete Vert. e Hor.
+MSU203
+Peso Kg/m
+0,133
+Peso Barra 6 m
+0,798 Kg
+Terminal Da Palheta
+MSU103
+Peso Kg/m
+0,140
+Peso Barra 6 m
+0,840 Kg
+Baguete Do Marco
+www.mirandaaluminio.com.br 95
+MIRANDA 25
+
+-- 94 of 215 --
+
+MLG044
+Peso Kg/m
+1,115
+Peso Barra 6 m
+6,690 Kg
+Marco Superior
+MLG024
+Peso Kg/m
+1,147
+Peso Barra 6 m
+6,880 Kg
+Marco Inferior
+www.mirandaaluminio.com.br 96
+MIRANDA 32
+
+-- 95 of 215 --
+
+MLG047
+Peso Kg/m
+1,035
+Peso Barra 6 m
+6,210 Kg
+Marco Inferior
+MLG159
+Peso Kg/m
+1,105
+Peso Barra 6 m
+6,630 Kg
+Marco Inferior
+www.mirandaaluminio.com.br 97
+MIRANDA 32
+MLG005
+Peso Kg/m
+2,104
+Peso Barra 6 m
+12,624 Kg
+Travessa Peitoril
+
+-- 96 of 215 --
+
+MLG004
+Peso Kg/m
+2,035
+Peso Barra 6 m
+12,210 Kg
+Travessa Bandeira
+MLG117
+Peso Kg/m
+1,817
+Peso Barra 6 m
+10,900 Kg
+Travessa Peitoril
+www.mirandaaluminio.com.br 98
+MIRANDA 32
+
+-- 97 of 215 --
+
+MLG003
+Peso Kg/m
+0,757
+Peso Barra 6 m
+4,542 Kg
+Marco Bandeira / Peitoril
+MLG002
+Peso Kg/m
+0,601
+Peso Barra 6 m
+3,605 Kg
+Marco Lateral
+MLG045
+Peso Kg/m
+0,897
+Peso Barra 6 m
+5,380 Kg
+Marco Lateral
+www.mirandaaluminio.com.br 99
+MIRANDA 32
+
+-- 98 of 215 --
+
+MLG176
+Peso Kg/m
+1,492
+Peso Barra 6 m
+8,950 Kg
+Coluna
+MLG124
+Peso Kg/m
+0,773
+Peso Barra 6 m
+4,638 Kg
+Marco Lateral
+MLG062
+Peso Kg/m
+1,728
+Peso Barra 6 m
+10,368 Kg
+Marco Superior
+www.mirandaaluminio.com.br 100
+MIRANDA 32
+Sob Consulta
+
+-- 99 of 215 --
+
+MLG066
+Peso Kg/m
+1,488
+Peso Barra 6 m
+8,925 Kg
+Marco Inferior
+MLG116
+Peso Kg/m
+1,383
+Peso Barra 6 m
+8,300 Kg
+Marco Inferior
+www.mirandaaluminio.com.br 101
+MIRANDA 32
+MLG234
+Peso Kg/m
+1,068
+Peso Barra 6 m
+6,408 Kg
+Marco Bandeira / Peitoril
+
+-- 100 of 215 --
+
+MLG158
+Peso Kg/m
+0,925
+Peso Barra 6 m
+5,500 Kg
+Marco Lateral
+MLG064
+Peso Kg/m
+1,313
+Peso Barra 6 m
+7,875 Kg
+Marco Lateral
+www.mirandaaluminio.com.br 102
+MIRANDA 32
+
+-- 101 of 215 --
+
+MLG144
+Peso Kg/m
+1,131
+Peso Barra 6 m
+6,786 Kg
+Marco Lateral
+MLG145
+Peso Kg/m
+1,330
+Peso Barra 6 m
+7,980 Kg
+Marco Lateral
+www.mirandaaluminio.com.br 103
+MIRANDA 32
+
+-- 102 of 215 --
+
+MLG070
+Peso Kg/m
+2,100
+Peso Barra 6 m
+12,600 Kg
+Marco Superior
+MLG160
+Peso Kg/m
+1,896
+Peso Barra 6 m
+11,376 Kg
+Marco Inferior
+www.mirandaaluminio.com.br 104
+MIRANDA 32
+MLG071
+Peso Kg/m
+1,921
+Peso Barra 6 m
+11,525 Kg
+Marco Inferior
+
+-- 103 of 215 --
+
+MLG072
+Peso Kg/m
+1,250
+Peso Barra 6 m
+7,500 Kg
+Marco Lateral
+MLG028
+Peso Kg/m
+0,418
+Peso Barra 6 m
+2,510 Kg
+Mata Junta Lateral
+MLG046
+Peso Kg/m
+0,206
+Peso Barra 6 m
+1,236 Kg
+Tampa Do Marco Lateral
+MLG111
+Peso Kg/m
+0,102
+Peso Barra 6 m
+0,610 Kg
+Click Do Marco Inferior
+www.mirandaaluminio.com.br 105
+MIRANDA 32
+
+-- 104 of 215 --
+
+MLG006
+Peso Kg/m
+0,608
+Peso Barra 6 m
+3,650 Kg
+Folha Horizontal
+MLG055
+Peso Kg/m
+0,759
+Peso Barra 6 m
+4,554 Kg
+Travessa 64mm
+MLG007
+Peso Kg/m
+1,229
+Peso Barra 6 m
+7,374 Kg
+Folha Horizontal
+MLG022
+Peso Kg/m
+1,064
+Peso Barra 6 m
+6,384 Kg
+Travessa 100mm
+www.mirandaaluminio.com.br 106
+MIRANDA 32
+MLG237
+Peso Kg/m
+1,234
+Peso Barra 6 m
+7,404 Kg
+Travessa 100mm
+
+-- 105 of 215 --
+
+MLG050
+Peso Kg/m
+0,748
+Peso Barra 6 m
+4,490 Kg
+Montante Lateral
+MLG051
+Peso Kg/m
+0,918
+Peso Barra 6 m
+5,510 Kg
+Montante Central
+MLG017
+Peso Kg/m
+0,983
+Peso Barra 6 m
+5,900 Kg
+Montante Lateral C/ Reforço
+MLG020
+Peso Kg/m
+1,017
+Peso Barra 6 m
+6,100 Kg
+Montante Central C/ Reforço
+www.mirandaaluminio.com.br 107
+MIRANDA 32
+MNO236
+Peso Kg/m
+0,183
+Peso Barra 6 m
+1,100 Kg
+Click Do Montante De Canto
+MLG235
+Peso Kg/m
+1,183
+Peso Barra 6 m
+7,100 Kg
+Montante De Canto
+46
+70,7
+10,4
+32,2
+
+-- 106 of 215 --
+
+MLG048
+Peso Kg/m
+0,911
+Peso Barra 6 m
+5,465 Kg
+Mão De Amigo Interno
+MLG137
+Peso Kg/m
+1,550
+Peso Barra 6 m
+9,300 Kg
+MLG049
+Peso Kg/m
+0,868
+Peso Barra 6 m
+5,210 Kg
+MLG140
+Peso Kg/m
+1,555
+Peso Barra 6 m
+9,330 Kg
+Mão De Amigo Int. Bitubular
+Mão De Amigo Externo 	Mão De Amigo Ext. Bitubular
+www.mirandaaluminio.com.br 108
+MIRANDA 32
+
+-- 107 of 215 --
+
+MLG021
+Peso Kg/m
+1,733
+Peso Barra 6 m
+10,398 Kg
+Mão De Amigo Interno
+MPAT021
+Peso Kg/m
+1,733
+Peso Barra 6 m
+10,398 Kg
+Mão De Amigo Interno
+www.mirandaaluminio.com.br 109
+MIRANDA 32
+
+-- 108 of 215 --
+
+MLG023
+Peso Kg/m
+0,551
+Peso Barra 5 m
+2,755 Kg
+Mão De Amigo
+MLG019
+Peso Kg/m
+1,080
+Peso Barra 6 m
+6,480 Kg
+Mão De Amigo Externo
+MLG162
+Peso Kg/m
+0,982
+Peso Barra 6 m
+5,890 Kg
+Mão De Amigo Central
+www.mirandaaluminio.com.br 110
+MIRANDA 32
+MLG299
+Peso Kg/m
+1,193
+Peso Barra 6 m
+7,158 Kg
+Folha Lateral Com Reforço
+
+-- 109 of 215 --
+
+MLG130
+Peso Kg/m
+0,662
+Peso Barra 6 m
+3,970 Kg
+Folha Horizontal
+MLG131
+Peso Kg/m
+0,817
+Peso Barra 6 m
+4,900 Kg
+Travessa 64mm
+MLG129
+Peso Kg/m
+1,183
+Peso Barra 6 m
+7,100 Kg
+Folha Horizontal
+www.mirandaaluminio.com.br 111
+MIRANDA 32
+
+-- 110 of 215 --
+
+MLG132
+Peso Kg/m
+0,838
+Peso Barra 6 m
+5,030 Kg
+Montante Lateral
+MLG133
+Peso Kg/m
+0,947
+Peso Barra 6 m
+5,680 Kg
+Montante Central
+MLG135
+Peso Kg/m
+1,533
+Peso Barra 6 m
+9,200 Kg
+Montante Lateral C/ Reforço
+MLG136
+Peso Kg/m
+1,583
+Peso Barra 6 m
+9,500 Kg
+Montante Central C/ Reforço
+www.mirandaaluminio.com.br 112
+MIRANDA 32
+
+-- 111 of 215 --
+
+MLG128
+Peso Kg/m
+0,945
+Peso Barra 6 m
+5,670 Kg
+Mão De Amigo
+MLG127
+Peso Kg/m
+1,570
+Peso Barra 6 m
+9,420 Kg
+Mão De Amigo C/ Reforço
+MLG163
+Peso Kg/m
+1,050
+Peso Barra 6 m
+6,300 Kg
+Mão De Amigo Central
+www.mirandaaluminio.com.br 113
+MIRANDA 32
+
+-- 112 of 215 --
+
+MLG168
+Peso Kg/m
+1,108
+Peso Barra 6 m
+6,650 Kg
+Marco Superior
+MLG166
+Peso Kg/m
+1,750
+Peso Barra 6 m
+10,500 Kg
+Travessa Intermediária
+www.mirandaaluminio.com.br 114
+MIRANDA 32
+
+-- 113 of 215 --
+
+MMN002
+Peso Kg/m
+0,645
+Peso Barra 6 m
+3,870 Kg
+Travessa Intermediária
+MMN030
+Peso Kg/m
+1,605
+Peso Barra 6 m
+9,630 Kg
+Marco Inferior
+www.mirandaaluminio.com.br 115
+MIRANDA 32
+MLG172
+Peso Kg/m
+1,485
+Peso Barra 6 m
+8,910 Kg
+Marco Inferior
+
+-- 114 of 215 --
+
+MLG170
+Peso Kg/m
+0,797
+Peso Barra 6 m
+4,780 Kg
+Marco Lateral
+MMN050
+Peso Kg/m
+0,683
+Peso Barra 6 m
+4,100 Kg
+Marco Lateral - Manual
+www.mirandaaluminio.com.br 116
+MIRANDA 32
+MLG236
+Peso Kg/m
+1,185
+Peso Barra 6 m
+7,110 Kg
+Marco Lateral - Manual
+
+-- 115 of 215 --
+
+M80041
+Peso Kg/m
+1,434
+Peso Barra 6 m
+8,604 Kg
+Marco Superior
+M80034
+Peso Kg/m
+2,234
+Peso Barra 6 m
+13,404 Kg
+Travessa Intermediária
+www.mirandaaluminio.com.br 117
+MIRANDA 32
+
+-- 116 of 215 --
+
+MMN039
+Peso Kg/m
+1,400
+Peso Barra 6 m
+8,400 Kg
+Tampa Externa
+www.mirandaaluminio.com.br 118
+MIRANDA 32
+M80035
+Peso Kg/m
+1,134
+Peso Barra 6 m
+6,804 Kg
+Marco Lateral
+
+-- 117 of 215 --
+
+MMN031
+Peso Kg/m
+1,225
+Peso Barra 6 m
+7,350 Kg
+Tampa Interna
+MMN032
+Peso Kg/m
+1,583
+Peso Barra 6 m
+9,500 Kg
+Tampa Interna
+www.mirandaaluminio.com.br 119
+MIRANDA 32
+
+-- 118 of 215 --
+
+MMN007
+Peso Kg/m
+0,683
+Peso Barra 6 m
+4,100 Kg
+Guia Da Persiana
+MMN055
+Peso Kg/m
+0,394
+Peso Barra 6 m
+2,365 Kg
+Terminal Da Persiana
+MMN027
+Peso Kg/m
+1,043
+Peso Barra 6 m
+6,258 Kg
+Guia Da Persiana
+www.mirandaaluminio.com.br 120
+MIRANDA 32
+
+-- 119 of 215 --
+
+MDS238
+Peso Kg/m
+0,525
+Peso Barra 6 m
+3,150 Kg
+Tubo Recolhedor - 40mm
+MMN015
+Peso Kg/m
+0,881
+Peso Barra 6 m
+5,286 Kg
+Tubo Recolhedor - 60mm
+www.mirandaaluminio.com.br 121
+MIRANDA 32
+
+-- 120 of 215 --
+
+MLG068
+Peso Kg/m
+0,405
+Peso Barra 6 m
+2,430 Kg
+Marco Maxim Ar
+MLG083
+Peso Kg/m
+0,412
+Peso Barra 6 m
+2,470 Kg
+Marco Fixo
+MLG074
+Peso Kg/m
+0,760
+Peso Barra 6 m
+4,560 Kg
+Coluna Maxim Ar
+MLG076
+Peso Kg/m
+0,789
+Peso Barra 6 m
+4,733 Kg
+Travessa Maxim Ar
+www.mirandaaluminio.com.br 122
+MIRANDA 32
+
+-- 121 of 215 --
+
+MLG079
+Peso Kg/m
+0,690
+Peso Barra 6 m
+4,140 Kg
+Travessa 62mm
+MLG077
+Peso Kg/m
+0,343
+Peso Barra 6 m
+2,060 Kg
+Inversor De Baguetes
+MLG063
+Peso Kg/m
+0,562
+Peso Barra 6 m
+3,370 Kg
+Marco Fixo
+www.mirandaaluminio.com.br 123
+MIRANDA 32
+
+-- 122 of 215 --
+
+MLG091
+Peso Kg/m
+0,150
+Peso Barra 6 m
+0,900 Kg
+Pingadeira Maxim Ar
+MLG092
+Peso Kg/m
+0,162
+Peso Barra 6 m
+0,970 Kg
+Pingadeira Auxiliar
+MLG085
+Peso Kg/m
+0,465
+Peso Barra 6 m
+2,790 Kg
+Folha Maxim Ar
+www.mirandaaluminio.com.br 124
+MIRANDA 32
+MLG3071
+Peso Kg/m
+0,363
+Peso Barra 6 m
+2,180 Kg
+Folha Maxim Ar
+
+-- 123 of 215 --
+
+MLG056
+Peso Kg/m
+0,664
+Peso Barra 6 m
+3,984 Kg
+Marco Porta De Giro
+MLG016
+Peso Kg/m
+0,353
+Peso Barra 6 m
+2,120 Kg
+Batente Porta De Giro
+MLG058
+Peso Kg/m
+0,767
+Peso Barra 6 m
+4,600 Kg
+Folha Horizontal - Porta De Giro
+www.mirandaaluminio.com.br 125
+MIRANDA 32
+
+-- 124 of 215 --
+
+MLG043
+Peso Kg/m
+0,867
+Peso Barra 6 m
+5,200 Kg
+Folha Porta De Giro - 70mm
+MLG042
+Peso Kg/m
+1,154
+Peso Barra 6 m
+6,923 Kg
+Folha Porta De Giro - 100mm
+www.mirandaaluminio.com.br 126
+MIRANDA 32
+
+-- 125 of 215 --
+
+MLG239
+Peso Kg/m
+1,121
+Peso Barra 6 m
+6,726 Kg
+Folha Porta De Giro - 115mm
+MLG238
+Peso Kg/m
+0,292
+Peso Barra 6 m
+1,752 Kg
+Redutor Da Folha MLG239
+www.mirandaaluminio.com.br 127
+MIRANDA 32
+
+-- 126 of 215 --
+
+MPO008
+Peso Kg/m
+1,031
+Peso Barra 6 m
+6,186 Kg
+Marco Porta De Giro / Pivo
+MPO011
+Peso Kg/m
+0,381
+Peso Barra 6 m
+2,286 Kg
+Prolongador Do Marco
+www.mirandaaluminio.com.br 128
+MIRANDA 32
+
+-- 127 of 215 --
+
+MPO010
+Peso Kg/m
+0,755
+Peso Barra 6 m
+4,530 Kg
+Vista Externa Regulável
+MPO013
+Peso Kg/m
+0,079
+Peso Barra 6 m
+0,474 Kg
+Click Acabamento
+www.mirandaaluminio.com.br 129
+MIRANDA 32
+MPO012
+Peso Kg/m
+0,407
+Peso Barra 6 m
+2,442 Kg
+Vista Interna
+
+-- 128 of 215 --
+
+MLG026
+Peso Kg/m
+0,158
+Peso Barra 6 m
+0,948 Kg
+Baguete Vertical
+MLG164
+Peso Kg/m
+0,169
+Peso Barra 6 m
+1,014 Kg
+Baguete Vertical
+MBG057
+Peso Kg/m
+0,170
+Peso Barra 6 m
+1,020 Kg
+Baguete Vert. e Hor.
+MLG059
+Peso Kg/m
+0,169
+Peso Barra 6 m
+1,014 Kg
+MLG015
+Peso Kg/m
+0,148
+Peso Barra 6 m
+0,885 Kg
+Baguete Vidro Insulado
+MLG027
+Peso Kg/m
+0,149
+Peso Barra 6 m
+0,894 Kg
+Baguete Veneziana
+Baguete Vert. e Hor.
+www.mirandaaluminio.com.br 130
+MIRANDA 32
+
+-- 129 of 215 --
+
+M1021R
+Peso Kg/m
+0,608
+Peso Barra 6 m
+3,650 Kg
+Trilho Suprior
+M1022R
+Peso Kg/m
+0,220
+Peso Barra 6 m
+1,320 Kg
+Capa Do Trilho Superior
+M1017R
+Peso Kg/m
+0,268
+Peso Barra 6 m
+1,606 Kg
+Trilho Inferior
+M1033R
+Peso Kg/m
+0,057
+Peso Barra 6 m
+0,340 Kg
+Click Do Trilho
+www.mirandaaluminio.com.br
+BOX TEMPERADO
+131
+
+-- 130 of 215 --
+
+M1041C
+Peso Kg/m
+0,638
+Peso Barra 6 m
+3,830 Kg
+Trilho Superior 8mm
+M1021
+Peso Kg/m
+0,517
+Peso Barra 6 m
+3,100 Kg
+Trilho Superior 8mm
+M1041R
+Peso Kg/m
+0,725
+Peso Barra 6 m
+4,350 Kg
+Trilho Superior 8mm
+www.mirandaaluminio.com.br
+TEMPERADO 8MM
+132
+
+-- 131 of 215 --
+
+M1042C
+Peso Kg/m
+0,273
+Peso Barra 6 m
+1,640 Kg
+Capa Do Trilho
+M1022
+Peso Kg/m
+0,272
+Peso Barra 6 m
+1,630 Kg
+Capa Do Trilho
+M1034R
+Peso Kg/m
+0,341
+Peso Barra 6 m
+2,048 Kg
+Trilho Inferior
+www.mirandaaluminio.com.br 133
+TEMPERADO 8MM
+
+-- 132 of 215 --
+
+Peso Kg/m
+Peso Barra 6 m
+0,340 Kg
+M1015A
+Peso Kg/m
+0,089
+Peso Barra 6 m
+0,534 Kg
+M1037R
+Peso Kg/m
+0,130
+Peso Barra 6 m
+0,780 Kg
+Arremate Lateral
+M1039R
+Peso Kg/m
+0,093
+Peso Barra 6 m
+0,560 Kg
+Arremate Vertical
+M1033R 0,057
+Click Do Trilho 	Click Do Trilho
+www.mirandaaluminio.com.br 134
+TEMPERADO 8MM
+
+-- 133 of 215 --
+
+M1039
+Peso Kg/m
+0,186
+Peso Barra 6 m
+1,118 Kg
+Arremate Vertical
+M1035C
+Peso Kg/m
+0,156
+Peso Barra 6 m
+0,933 Kg
+Batente Central
+M1035R
+Peso Kg/m
+0,248
+Peso Barra 6 m
+1,490 Kg
+M1036
+Peso Kg/m
+0,139
+Peso Barra 6 m
+0,833 Kg
+Veda Pó 8mm	Batente Central
+www.mirandaaluminio.com.br 135
+TEMPERADO 8MM
+
+-- 134 of 215 --
+
+MBX252
+Peso Kg/m
+0,212
+Peso Barra 6 m
+1,270 Kg
+Mão De Amigo 8mm
+M1039C
+Peso Kg/m
+0,152
+Peso Barra 6 m
+0,910 Kg
+Arremate 90º
+M1081C
+Peso Kg/m
+0,155
+Peso Barra 6 m
+0,929 Kg
+Cantoneira 15x15
+www.mirandaaluminio.com.br 136
+TEMPERADO 8MM
+
+-- 135 of 215 --
+
+M1030L
+Peso Kg/m
+0,873
+Peso Barra 6 m
+5,240 Kg
+M1030
+Peso Kg/m
+1,258
+Peso Barra 6 m
+7,550 Kg
+Trilho Superior Duplo
+MBX170
+Peso Kg/m
+0,525
+Peso Barra 6 m
+3,150 Kg
+Trilho Inferior Duplo
+Trilho Superior Duplo
+M1034S
+Peso Kg/m
+0,301
+Peso Barra 6 m
+1,804 Kg
+Trilho Inferior Simples
+www.mirandaaluminio.com.br 137
+TEMPERADO 10MM
+
+-- 136 of 215 --
+
+M1041
+Peso Kg/m
+1,373
+Peso Barra 6 m
+8,235 Kg
+Trilho Superior 10mm
+M1042
+Peso Kg/m
+0,394
+Peso Barra 6 m
+2,366 Kg
+Capa Do Trilho
+M1015
+Peso Kg/m
+0,093
+Peso Barra 6 m
+0,560 Kg
+Click Do Trilho
+M1034
+Peso Kg/m
+0,367
+Peso Barra 6 m
+2,200 Kg
+Trilho Inferior 10mm
+www.mirandaaluminio.com.br 138
+TEMPERADO 10MM
+
+-- 137 of 215 --
+
+M1081R
+Peso Kg/m
+0,146
+Peso Barra 6 m
+0,876 Kg
+Arremate Lateral
+M1019
+Peso Kg/m
+0,203
+Peso Barra 6 m
+1,218 Kg
+M1039A
+Peso Kg/m
+0,242
+Peso Barra 6 m
+1,452 Kg
+Arremate Vertical
+M1018D
+Peso Kg/m
+0,185
+Peso Barra 6 m
+1,110 Kg
+Arremate Lateral
+Arremate Lateral
+www.mirandaaluminio.com.br 139
+TEMPERADO 10MM
+MBX212
+Peso Kg/m
+0,127
+Peso Barra 6 m
+0,760 Kg
+Arremate Vertical
+
+-- 138 of 215 --
+
+M1035A
+Peso Kg/m
+0,150
+Peso Barra 6 m
+0,900 Kg
+Arremate Central
+M1035
+Peso Kg/m
+0,311
+Peso Barra 6 m
+1,866 Kg
+MBX253
+Peso Kg/m
+0,219
+Peso Barra 6 m
+1,312 Kg
+Mão De Amigo 10mm
+Arremate Central
+www.mirandaaluminio.com.br 140
+TEMPERADO 10MM
+
+-- 139 of 215 --
+
+M3211
+Peso Kg/m
+0,270
+Peso Barra 6 m
+1,620 Kg
+Quadro Fixo
+M3210
+Peso Kg/m
+0,183
+Peso Barra 6 m
+1,100 Kg
+Baguete Do Quadro
+MDS290
+Peso Kg/m
+0,182
+Peso Barra 6 m
+1,092 Kg
+Quadro Fixo
+www.mirandaaluminio.com.br 141
+TEMPERADO 10MM
+
+-- 140 of 215 --
+
+MFS004
+Peso Kg/m
+0,916
+Peso Barra 6 m
+5,496 Kg
+Coluna Central
+MFS044
+Peso Kg/m
+1,100
+Peso Barra 6 m
+6,600 Kg
+Coluna Central
+www.mirandaaluminio.com.br 142
+FACHADA MIRANDA
+Sob Consulta
+
+-- 141 of 215 --
+
+MFS370
+Peso Kg/m
+1,550
+Peso Barra 6 m
+9,300 Kg
+Coluna Central
+MFS020
+Peso Kg/m
+1,892
+Peso Barra 6,5 m
+12,300 Kg
+Coluna Central
+www.mirandaaluminio.com.br 143
+FACHADA MIRANDA
+
+-- 142 of 215 --
+
+MFS062
+Peso Kg/m
+3,425
+Peso Barra 6,5 m
+22,262 Kg
+Coluna Central
+www.mirandaaluminio.com.br 144
+FACHADA MIRANDA
+
+-- 143 of 215 --
+
+MFS042
+Peso Kg/m
+1,504
+Peso Barra 6 m
+9,024 Kg
+Coluna 90º
+www.mirandaaluminio.com.br 145
+FACHADA MIRANDA
+
+-- 144 of 215 --
+
+MFS043
+Peso Kg/m
+1,983
+Peso Barra 6 m
+11,898 Kg
+Coluna 90º
+www.mirandaaluminio.com.br 146
+FACHADA MIRANDA
+
+-- 145 of 215 --
+
+MFS083
+Peso Kg/m
+0,957
+Peso Barra 6 m
+5,740 Kg
+Complemento Marco
+MFS007
+Peso Kg/m
+0,790
+Peso Barra 6 m
+4,740 Kg
+Marco Lateral
+www.mirandaaluminio.com.br 147
+FACHADA MIRANDA
+
+-- 146 of 215 --
+
+MFS032
+Peso Kg/m
+1,100
+Peso Barra 6 m
+6,600 Kg
+Marco Lateral
+MFS023
+Peso Kg/m
+1,398
+Peso Barra 6,5 m
+9,087 Kg
+Marco Lateral
+www.mirandaaluminio.com.br 148
+FACHADA MIRANDA
+
+-- 147 of 215 --
+
+MFS024
+Peso Kg/m
+1,683
+Peso Barra 6 m
+10,100 Kg
+Marco Lateral
+MFS002
+Peso Kg/m
+0,924
+Peso Barra 6 m
+5,544 Kg
+Travessa
+www.mirandaaluminio.com.br 149
+FACHADA MIRANDA
+
+-- 148 of 215 --
+
+MFS006
+Peso Kg/m
+0,601
+Peso Barra 6 m
+3,606 Kg
+Quadro Fixo
+MFS005
+Peso Kg/m
+0,793
+Peso Barra 6 m
+4,758 Kg
+Quadro Móvel
+MFS013
+Peso Kg/m
+0,650
+Peso Barra 6 m
+3,900 Kg
+Quadro Fixo
+MFS015
+Peso Kg/m
+0,844
+Peso Barra 6 m
+5,065 Kg
+Quadro Móvel
+www.mirandaaluminio.com.br 150
+FACHADA MIRANDA
+
+-- 149 of 215 --
+
+MFS054
+Peso Kg/m
+0,950
+Peso Barra 6 m
+5,700 Kg
+Quadro Móvel / Fixo
+MFS017
+Peso Kg/m
+0,371
+Peso Barra 6 m
+2,226 Kg
+Calço Quadro Fixo
+MFS011
+Peso Kg/m
+0,208
+Peso Barra 6 m
+1,248 Kg
+Presilha Quadro Fixo
+www.mirandaaluminio.com.br 151
+FACHADA MIRANDA
+Sob Consulta
+
+-- 150 of 215 --
+
+MLV002
+Peso Kg/m
+0,741
+Peso Barra 6 m
+4,447 Kg
+Luva Da Travessa
+MLV004
+Peso Kg/m
+0,742
+Peso Barra 6 m
+4,452 Kg
+Luva Da Coluna
+MLV420
+Peso Kg/m
+0,437
+Peso Barra 6 m
+2,620 Kg
+Complemento Coluna 90º
+www.mirandaaluminio.com.br 152
+FACHADA MIRANDA
+Sob Consulta
+
+-- 151 of 215 --
+
+MLV020
+Peso Kg/m
+2,216
+Peso Barra 6 m
+13,295 Kg
+Luva Da Coluna
+MLV023
+Peso Kg/m
+1,683
+Peso Barra 6 m
+10,100 Kg
+Luva Do Marco
+www.mirandaaluminio.com.br 153
+FACHADA MIRANDA
+
+-- 152 of 215 --
+
+MLV042
+Peso Kg/m
+0,857
+Peso Barra 6 m
+5,142 Kg
+Luva Da Coluna 90º
+MLV043
+Peso Kg/m
+1,757
+Peso Barra 6 m
+10,542 Kg
+Luva Da Coluna 90º
+www.mirandaaluminio.com.br 154
+FACHADA MIRANDA
+Sob Consulta
+
+-- 153 of 215 --
+
+MLV062
+Peso Kg/m
+2,733
+Peso Barra 6 m
+16,400 Kg
+Luva Da Coluna
+MLV083
+Peso Kg/m
+1,465
+Peso Barra 6 m
+8,790 Kg
+Luva Da Coluna
+www.mirandaaluminio.com.br 155
+FACHADA MIRANDA
+Sob Consulta
+
+-- 154 of 215 --
+
+MAN051
+Peso Kg/m
+1,901
+Peso Barra 6 m
+11,404 Kg
+Ancoragem Central
+www.mirandaaluminio.com.br 156
+FACHADA MIRANDA
+MANC001
+Peso Kg/m
+0,763
+Peso Barra 6 m
+4,580 Kg
+Ancoragem Lateral
+
+-- 155 of 215 --
+
+www.mirandaaluminio.com.br 157
+FACHADA PVII
+MFC202
+Peso Kg/m
+1,932
+Peso Barra 6 m
+11,590 Kg
+Coluna Central
+MFC243
+Peso Kg/m
+1,138
+Peso Barra 6 m
+6,830 Kg
+Marco Lateral
+
+-- 156 of 215 --
+
+www.mirandaaluminio.com.br 158
+FACHADA PVII
+MFC225
+Peso Kg/m
+0,710
+Peso Barra 6 m
+4,262 Kg
+Marco Lateral
+MFC687
+Peso Kg/m
+0,487
+Peso Barra 6 m
+2,921 Kg
+Pingadeira Do Marco
+
+-- 157 of 215 --
+
+www.mirandaaluminio.com.br 159
+FACHADA PVII
+MFC244
+Peso Kg/m
+2,058
+Peso Barra 6 m
+12,350 Kg
+Coluna Angular
+MFC242
+Peso Kg/m
+0,836
+Peso Barra 6 m
+5,014 Kg
+Tampa Da Coluna 90º
+
+-- 158 of 215 --
+
+www.mirandaaluminio.com.br 160
+FACHADA PVII
+MFC231
+Peso Kg/m
+1,122
+Peso Barra 6 m
+6,734 Kg
+Coluna Central
+MFC227
+Peso Kg/m
+0,735
+Peso Barra 6 m
+4,410 Kg
+Complemento Do Quadro
+MFC249
+Peso Kg/m
+0,653
+Peso Barra 6 m
+3,916 Kg
+Complemento Do Quadro
+MFC240
+Peso Kg/m
+0,838
+Peso Barra 6 m
+5,030 Kg
+Luva
+
+-- 159 of 215 --
+
+www.mirandaaluminio.com.br 161
+FACHADA PVII
+MFC293
+Peso Kg/m
+0,677
+Peso Barra 6 m
+4,062 Kg
+Quadro Caixilhado
+MFC261
+Peso Kg/m
+0,599
+Peso Barra 6 m
+3,595 Kg
+Quadro Silicone Estrutural
+MFC228
+Peso Kg/m
+0,606
+Peso Barra 6 m
+3,633 Kg
+Quadro Fita VHB
+
+-- 160 of 215 --
+
+www.mirandaaluminio.com.br 162
+FACHADA ATLANTA
+MFX204
+Peso Kg/m
+1,038
+Peso Barra 6 m
+6,228 Kg
+Coluna Central
+MFX400
+Peso Kg/m
+1,892
+Peso Barra 6 m
+11,351Kg
+Coluna Central
+
+-- 161 of 215 --
+
+www.mirandaaluminio.com.br 163
+FACHADA ATLANTA
+MFX200
+Peso Kg/m
+1,825
+Peso Barra 6 m
+10,950 Kg
+Coluna Central
+MFX223
+Peso Kg/m
+2,008
+Peso Barra 6 m
+12,048 Kg
+Luva Da Coluna Central
+
+-- 162 of 215 --
+
+www.mirandaaluminio.com.br 164
+FACHADA ATLANTA
+MFX375
+Peso Kg/m
+2,463
+Peso Barra 6 m
+14,778 Kg
+Coluna Central
+
+-- 163 of 215 --
+
+www.mirandaaluminio.com.br 165
+FACHADA ATLANTA
+MFX376
+Peso Kg/m
+2,295
+Peso Barra 6 m
+13,770 Kg
+Luva Da Coluna Central
+
+-- 164 of 215 --
+
+www.mirandaaluminio.com.br 166
+FACHADA ATLANTA
+MFX390
+Peso Kg/m
+3,933
+Peso Barra 6 m
+23,595 Kg
+Coluna Central
+
+-- 165 of 215 --
+
+www.mirandaaluminio.com.br 167
+FACHADA ATLANTA
+MFX391
+Peso Kg/m
+2,621
+Peso Barra 6 m
+15,726 Kg
+Luva Da Coluna Central
+
+-- 166 of 215 --
+
+www.mirandaaluminio.com.br 168
+FACHADA ATLANTA
+MFX333
+Peso Kg/m
+2,106
+Peso Barra 6 m
+12,636 Kg
+Marco Perimetral
+MFX334
+Peso Kg/m
+2,236
+Peso Barra 6 m
+13,416 Kg
+Luva Do Marco
+
+-- 167 of 215 --
+
+www.mirandaaluminio.com.br 169
+FACHADA ATLANTA
+MFX236
+Peso Kg/m
+2,343
+Peso Barra 6 m
+14,058 Kg
+Coluna Angular
+
+-- 168 of 215 --
+
+www.mirandaaluminio.com.br 170
+FACHADA ATLANTA
+MFX233
+Peso Kg/m
+0,886
+Peso Barra 6 m
+5,316 Kg
+Travessa
+MFX211
+Peso Kg/m
+0,999
+Peso Barra 6 m
+5,995 Kg
+Travessa
+MFX260
+Peso Kg/m
+1,180
+Peso Barra 6 m
+7,080 Kg
+Marco Perimetral
+MFX294
+Peso Kg/m
+0,774
+Peso Barra 6 m
+4,644 Kg
+Marco Perimetral
+
+-- 169 of 215 --
+
+www.mirandaaluminio.com.br 171
+FACHADA ATLANTA
+MFX515
+Peso Kg/m
+1,484
+Peso Barra 6 m
+8,904 Kg
+Marco Perimetral
+
+-- 170 of 215 --
+
+www.mirandaaluminio.com.br 172
+FACHADA ATLANTA
+MFX511
+Peso Kg/m
+1,249
+Peso Barra 6 m
+7,494 Kg
+Marco Perimetral
+MFX512
+Peso Kg/m
+0,510
+Peso Barra 6 m
+3,060 Kg
+Telescópica
+
+-- 171 of 215 --
+
+www.mirandaaluminio.com.br 173
+FACHADA ATLANTA
+MFX278
+Peso Kg/m
+1,453
+Peso Barra 6 m
+8,718 Kg
+Marco Perimetral
+MFX279
+Peso Kg/m
+1,825
+Peso Barra 6 m
+10,950 Kg
+Luva Do Marco Perimetral
+
+-- 172 of 215 --
+
+www.mirandaaluminio.com.br 174
+FACHADA ATLANTA
+MFX232
+Peso Kg/m
+0,607
+Peso Barra 6 m
+3,642 Kg
+Quadro Fixo Horizontal
+MFX228
+Peso Kg/m
+0,572
+Peso Barra 6 m
+3,432 Kg
+Quadro Fixo Vertical
+MFX230
+Peso Kg/m
+0,865
+Peso Barra 6 m
+5,190 Kg
+Quadro Móvel Horizontal
+MFX245
+Peso Kg/m
+0,784
+Peso Barra 6 m
+4,704 Kg
+Quadro Móvel Vertical
+
+-- 173 of 215 --
+
+www.mirandaaluminio.com.br 175
+FACHADA ATLANTA
+MFX397
+Peso Kg/m
+0,676
+Peso Barra 6 m
+4,056 Kg
+Presilha Da Travessa
+MFX273
+Peso Kg/m
+0,590
+Peso Barra 6 m
+3,540 Kg
+Acabamento Coluna Canto
+MFX269
+Peso Kg/m
+0,623
+Peso Barra 6 m
+3,738 Kg
+Acabamento Coluna Canto
+MFX271
+Peso Kg/m
+1,427
+Peso Barra 6 m
+8,562 Kg
+Cantoneira De Ancoragem
+
+-- 174 of 215 --
+
+www.mirandaaluminio.com.br 176
+FACHADA ATLANTA
+MFX227
+Peso Kg/m
+0,250
+Peso Barra 6 m
+1,500 Kg
+Presilha Transversal
+MFX226
+Peso Kg/m
+0,369
+Peso Barra 6 m
+2,214 Kg
+Calço Da Folha Fixa
+MFX247
+Peso Kg/m
+0,192
+Peso Barra 6 m
+1,152 Kg
+Presilha Do Quadro Fixo
+MFX240
+Peso Kg/m
+0,141
+Peso Barra 6 m
+0,845 Kg
+Presilha Do Arremate
+
+-- 175 of 215 --
+
+www.mirandaaluminio.com.br 177
+FACHADA ATLANTA
+MFX239
+Peso Kg/m
+0,587
+Peso Barra 6 m
+3,522 Kg
+MFX238
+Peso Kg/m
+0,520
+Peso Barra 6 m
+3,120 Kg
+Arremate De Teto e Piso
+MFX265
+Peso Kg/m
+0,802
+Peso Barra 6 m
+4,812 Kg
+Arremate Teto e Piso
+Arremate De Teto e Piso
+
+-- 176 of 215 --
+
+www.mirandaaluminio.com.br 178
+FACHADA ATLANTA
+MFX237
+Peso Kg/m
+0,117
+Peso Barra 6 m
+0,700 Kg
+MFX299
+Peso Kg/m
+0,220
+Peso Barra 6 m
+1,320 Kg
+MFX300
+Peso Kg/m
+0,792
+Peso Barra 6 m
+4,752 Kg
+Luva Do Arremate
+Click Do Arremate 	Click Do Arremate
+
+-- 177 of 215 --
+
+MDC004
+Peso Kg/m
+1,308
+Peso Barra 6 m
+7,848 Kg
+Brise
+MDC006
+Peso Kg/m
+0,834
+Peso Barra 6 m
+5,004 Kg
+Brise
+www.mirandaaluminio.com.br
+BRISE
+179
+
+-- 178 of 215 --
+
+MDC200
+Peso Kg/m
+0,677
+Peso Barra 6 m
+4,062 Kg
+Brise
+www.mirandaaluminio.com.br
+BRISE
+180
+Sob Consulta
+
+-- 179 of 215 --
+
+MDS266L
+Peso Kg/m
+0,425
+Peso Barra 6 m
+2,550 Kg
+Guia
+MDS152L
+Peso Kg/m
+0,600
+Peso Barra 6 m
+3,600 Kg
+Guia
+MDS266
+Peso Kg/m
+0,599
+Peso Barra 6 m
+3,594 Kg
+Guia
+MME025
+Peso Kg/m
+0,407
+Peso Barra 6 m
+2,440 Kg
+Batente Lateral
+www.mirandaaluminio.com.br
+CERCAS E PORTÕES
+181
+MME024
+Peso Kg/m
+0,338
+Peso Barra 6 m
+2,030 Kg
+Batente Lateral
+
+-- 180 of 215 --
+
+MPC006L
+Peso Kg/m
+0,367
+Peso Barra 6 m
+2,200 Kg
+Trilho Inferior
+MPC008
+Peso Kg/m
+0,367
+Peso Barra 6 m
+2,200 Kg
+Trilho Inferior
+www.mirandaaluminio.com.br 182
+CERCAS E PORTÕES
+
+-- 181 of 215 --
+
+MPC001
+Peso Kg/m
+1,050
+Peso Barra 6 m
+6,300 Kg
+Guia Duplo
+MPC005
+Peso Kg/m
+0,683
+Peso Barra 6 m
+4,098 Kg
+Trilho Inferior Duplo
+www.mirandaaluminio.com.br 183
+CERCAS E PORTÕES
+MPC011
+Peso Kg/m
+0,857
+Peso Barra 6 m
+5,140 Kg
+Requadro Do Portão
+MPC111
+Peso Kg/m
+0,774
+Peso Barra 6 m
+4,642 Kg
+Coluna Do Portão
+
+-- 182 of 215 --
+
+MPC010
+Peso Kg/m
+1,070
+Peso Barra 6 m
+6,420 Kg
+Quadro Portão Buzios
+MFC070
+Peso Kg/m
+0,756
+Peso Barra 6 m
+4,538 Kg
+Coluna
+MPC002L
+Peso Kg/m
+0,483
+Peso Barra 6 m
+2,900 Kg
+Requadro 50x25
+MPC004L
+Peso Kg/m
+0,589
+Peso Barra 6 m
+3,534 Kg
+Requadro 50x38
+www.mirandaaluminio.com.br 184
+CERCAS E PORTÕES
+
+-- 183 of 215 --
+
+MPC003
+Peso Kg/m
+0,900
+Peso Barra 6 m
+,5,400 Kg
+Requadro 76x38
+M29160
+Peso Kg/m
+1,397
+Peso Barra 6 m
+8,380 Kg
+Tampa Da Caixa
+www.mirandaaluminio.com.br 185
+CERCAS E PORTÕES
+
+-- 184 of 215 --
+
+M39811
+Peso Kg/m
+2,993
+Peso Barra 6 m
+17,960 Kg
+Caixa Portão Basculante
+www.mirandaaluminio.com.br 186
+CERCAS E PORTÕES
+
+-- 185 of 215 --
+
+MLB010
+Peso Kg/m
+0,903
+Peso Barra 6 m
+5,420 Kg
+Lambri Duplo
+MLB061
+Peso Kg/m
+0,700
+Peso Barra 6 m
+4,200 Kg
+Lambri Duplo
+www.mirandaaluminio.com.br
+LAMBRIS
+187
+MLB060
+Peso Kg/m
+0,533
+Peso Barra 6 m
+3,200 Kg
+Lambri Duplo
+MLB062
+Peso Kg/m
+1,167
+Peso Barra 6 m
+1,490 Kg
+Friso Lambri Duplo
+MLB080
+Peso Kg/m
+1,458
+Peso Barra 6 m
+8,745 Kg
+Lambri Duplo
+
+-- 186 of 215 --
+
+MLB038
+Peso Kg/m
+0,982
+Peso Barra 6 m
+5,890 Kg
+Lambri Búzios
+MLB075
+Peso Kg/m
+1,097
+Peso Barra 6 m
+6,580 Kg
+Lambri Ripado
+www.mirandaaluminio.com.br 188
+LAMBRIS
+MLB076
+Peso Kg/m
+0,857
+Peso Barra 6 m
+5,142 Kg
+Lambri Ripado
+MLB074
+Peso Kg/m
+0,402
+Peso Barra 6 m
+2,412 Kg
+Acabamento Lambri
+
+-- 187 of 215 --
+
+MLB036
+Peso Kg/m
+0,533
+Peso Barra 6 m
+3,200 Kg
+Lambri Liso
+MLB050
+Peso Kg/m
+0,624
+Peso Barra 6 m
+3,744 Kg
+Lambri Frisado
+www.mirandaaluminio.com.br 189
+LAMBRIS
+MLB002
+Peso Kg/m
+0,664
+Peso Barra 6 m
+3,985 Kg
+Lambri Búzios
+
+-- 188 of 215 --
+
+MVZ024
+Peso Kg/m
+0,262
+Peso Barra 6 m
+1,570 Kg
+Veneziana
+MUS280
+Peso Kg/m
+0,262
+Peso Barra 6 m
+1,570 Kg
+Veneziana Ventilada
+MVZ023
+Peso Kg/m
+0,275
+Peso Barra 6 m
+1,650 Kg
+MUS282
+Peso Kg/m
+0,275
+Peso Barra 6 m
+1,650 Kg
+Veneziana 	Veneziana Ventilada
+www.mirandaaluminio.com.br
+VENEZIANAS
+190
+
+-- 189 of 215 --
+
+MVZ006
+Peso Kg/m
+0,267
+Peso Barra 6 m
+1,600 Kg
+Veneziana
+MUS285
+Peso Kg/m
+0,267
+Peso Barra 6 m
+1,600 Kg
+Veneziana Ventilada
+MVZ051
+Peso Kg/m
+0,257
+Peso Barra 6 m
+1,540 Kg
+Veneziana
+MUS294
+Peso Kg/m
+0,257
+Peso Barra 6 m
+1,540 Kg
+Veneziana Ventilada
+www.mirandaaluminio.com.br 191
+VENEZIANAS
+
+-- 190 of 215 --
+
+MVZ025
+Peso Kg/m
+0,181
+Peso Barra 6 m
+1,084 Kg
+Veneziana
+MVZ060
+Peso Kg/m
+0,342
+Peso Barra 6 m
+2,050 Kg
+Veneziana
+MVZ047
+Peso Kg/m
+0,298
+Peso Barra 6 m
+1,788 Kg
+Veneziana
+www.mirandaaluminio.com.br 192
+VENEZIANAS
+MVZ021
+Peso Kg/m
+0,267
+Peso Barra 6 m
+1,600 Kg
+Veneziana
+
+-- 191 of 215 --
+
+MDS1104
+Peso Kg/m
+0,142
+Peso Barra 6 m
+0,850 Kg
+Perfil U 4mm
+MDS1103
+Peso Kg/m
+0,152
+Peso Barra 6 m
+0,910 Kg
+Perfil U 6mm
+MDS1102
+Peso Kg/m
+0,302
+Peso Barra 6 m
+1,810 Kg
+Fixador
+MDS1101
+Peso Kg/m
+0,198
+Peso Barra 6 m
+1,190 Kg
+Fixador
+www.mirandaaluminio.com.br
+POLICARBONATO
+193
+MDS1105
+Peso Kg/m
+0,168
+Peso Barra 6 m
+1,010 Kg
+MFC005
+Peso Kg/m
+0,234
+Peso Barra 6 m
+1,404 Kg
+Fixador	Perfil U 10mm
+
+-- 192 of 215 --
+
+MCG078
+Peso Kg/m
+0,379
+Peso Barra 6 m
+2,275 Kg
+Capa Do Corrimão
+MCG080
+Peso Kg/m
+0,176
+Peso Barra 6 m
+1,056 Kg
+MCG079
+Peso Kg/m
+0,330
+Peso Barra 6 m
+1,980 Kg
+Base Do Corrimão
+MCG104
+Peso Kg/m
+0,883
+Peso Barra 6 m
+5,300 Kg
+Coluna
+Capa Do Corrimão
+www.mirandaaluminio.com.br
+GUARDA CORPO
+194
+
+-- 193 of 215 --
+
+MGR071
+Peso Kg/m
+0,639
+Peso Barra 6 m
+3,833 Kg
+Corrimão
+MCG003
+Peso Kg/m
+0,509
+Peso Barra 6 m
+3,054 Kg
+Corrimão
+MCG012
+Peso Kg/m
+0,485
+Peso Barra 6 m
+2,910 Kg
+Coluna
+MCG074
+Peso Kg/m
+0,270
+Peso Barra 6 m
+1,620 Kg
+Capa Do Corrimão
+www.mirandaaluminio.com.br 195
+GUARDA CORPO
+
+-- 194 of 215 --
+
+MCG022
+Peso Kg/m
+0,295
+Peso Barra 6 m
+1,770 Kg
+Coluna
+MCG021
+Peso Kg/m
+0,329
+Peso Barra 6 m
+1,974 Kg
+Coluna
+MGR013
+Peso Kg/m
+1,166
+Peso Barra 6 m
+6,996 Kg
+Corrimão
+www.mirandaaluminio.com.br 196
+GUARDA CORPO
+
+-- 195 of 215 --
+
+MCG083
+Peso Kg/m
+1,317
+Peso Barra 6 m
+7,900 Kg
+Corrimão
+MCG077
+Peso Kg/m
+0,750
+Peso Barra 6 m
+4,500 Kg
+Coluna
+MCG075
+Peso Kg/m
+0,492
+Peso Barra 6 m
+2,950 Kg
+Travessa Do Vidro
+www.mirandaaluminio.com.br 197
+GUARDA CORPO
+
+-- 196 of 215 --
+
+MSG885
+Peso Kg/m
+1,283
+Peso Barra 6 m
+7,700 Kg
+Corrimão
+MCG300
+Peso Kg/m
+1,277
+Peso Barra 6 m
+7,662 Kg
+Corrimão
+www.mirandaaluminio.com.br 198
+GUARDA CORPO
+
+-- 197 of 215 --
+
+MCG837
+Peso Kg/m
+1,433
+Peso Barra 6 m
+8,600 Kg
+Coluna
+MCG887
+Peso Kg/m
+0,473
+Peso Barra 6 m
+2,838 Kg
+Travessa Do Vidro
+www.mirandaaluminio.com.br 199
+GUARDA CORPO
+MCG833
+Peso Kg/m
+1,242
+Peso Barra 6 m
+7,452 Kg
+Coluna
+Sob Consulta
+MCG834
+Peso Kg/m
+1,490
+Peso Barra 6 m
+8,940 Kg
+Chumbador Da Coluna
+
+-- 198 of 215 --
+
+MFC012
+Peso Kg/m
+1,050
+Peso Barra 6 m
+6,302 Kg
+Coluna
+MFC014
+Peso Kg/m
+0,375
+Peso Barra 6 m
+2,250 Kg
+Fixador
+MFC013
+Peso Kg/m
+0,275
+Peso Barra 6 m
+1,650 Kg
+Tampa Do Fixador
+www.mirandaaluminio.com.br 200
+FACHADA CORTINA
+
+-- 199 of 215 --
+
+MFC017
+Peso Kg/m
+1,860
+Peso Barra 6 m
+11,160 Kg
+Coluna
+MFC543
+Peso Kg/m
+0,434
+Peso Barra 6 m
+2,604 Kg
+Fixador
+MFC542
+Peso Kg/m
+0,350
+Peso Barra 6 m
+2,100 Kg
+Capa Do Fixador
+www.mirandaaluminio.com.br 201
+FACHADA CORTINA
+
+-- 200 of 215 --
+
+MFC087
+Peso Kg/m
+1,025
+Peso Barra 6 m
+6,150 Kg
+Acabamento Fachada
+MFC088
+Peso Kg/m
+0,906
+Peso Barra 6 m
+5,436 Kg
+Acabamento Fachada
+MFC085
+Peso Kg/m
+0,255
+Peso Barra 6 m
+1,530 Kg
+Click Arremate
+www.mirandaaluminio.com.br 202
+FACHADA CORTINA
+
+-- 201 of 215 --
+
+MBX157R
+Peso Kg/m
+0,493
+Peso Barra 6 m
+2,958 Kg
+Trilho Superior
+MBX157S
+Peso Kg/m
+0,429
+Peso Barra 6 m
+2,576 Kg
+Trilho Superior
+MBX157
+Peso Kg/m
+0,547
+Peso Barra 6 m
+3,280 Kg
+Trilho Superior
+www.mirandaaluminio.com.br
+BOX ACRÍLICO
+203
+
+-- 202 of 215 --
+
+MBX153S
+Peso Kg/m
+0,210
+Peso Barra 6 m
+1,260 Kg
+Trilho Inferior
+MBX153
+Peso Kg/m
+0,207
+Peso Barra 6 m
+1,242 Kg
+Trilho Inferior
+MBX116
+Peso Kg/m
+0,293
+Peso Barra 6 m
+1,758 Kg
+Montante Lateral
+www.mirandaaluminio.com.br 204
+BOX ACRÍLICO
+
+-- 203 of 215 --
+
+MBX156
+Peso Kg/m
+0,224
+Peso Barra 6 m
+1,344 Kg
+Montante Lateral
+MBX156S
+Peso Kg/m
+0,185
+Peso Barra 6 m
+1,108 Kg
+Montante Lateral
+MBX059
+Peso Kg/m
+0,247
+Peso Barra 6 m
+1,480 Kg
+Montante Lateral
+www.mirandaaluminio.com.br 205
+BOX ACRÍLICO
+
+-- 204 of 215 --
+
+MBX101
+Peso Kg/m
+0,336
+Peso Barra 6 m
+2,016 Kg
+Montante Vertical
+MBX154S
+Peso Kg/m
+0,151
+Peso Barra 6 m
+0,905 Kg
+Montante Vertical
+MBX154
+Peso Kg/m
+0,190
+Peso Barra 6 m
+1,140 Kg
+Montante Vertical
+MBX158
+Peso Kg/m
+0,163
+Peso Barra 6 m
+0,980 Kg
+Montante Vertical
+www.mirandaaluminio.com.br 206
+BOX ACRÍLICO
+
+-- 205 of 215 --
+
+MBX155
+Peso Kg/m
+0,248
+Peso Barra 6 m
+1,490 Kg
+Travessa
+MBX155S
+Peso Kg/m
+0,215
+Peso Barra 6 m
+1,291 Kg
+Travessa
+MBX106
+Peso Kg/m
+0,260
+Peso Barra 6 m
+1,560 Kg
+Batente Central
+MBX107
+Peso Kg/m
+0,297
+Peso Barra 6 m
+1,782 Kg
+Montante Vertical
+MBX112
+Peso Kg/m
+0,167
+Peso Barra 6 m
+1,000 Kg
+Montante Lateral
+www.mirandaaluminio.com.br 207
+BOX ACRÍLICO
+
+-- 206 of 215 --
+
+MDV101
+Peso Kg/m
+0,656
+Peso Barra 6 m
+3,937 Kg
+Coluna
+MDV021
+Peso Kg/m
+0,239
+Peso Barra 6 m
+1,435 Kg
+Perfil H
+MDV108
+Peso Kg/m
+0,217
+Peso Barra 6 m
+1,302 Kg
+Requadro
+MDV110
+Peso Kg/m
+0,308
+Peso Barra 6 m
+1,846 Kg
+Batente
+www.mirandaaluminio.com.br
+DIVISÓRIAS
+208
+
+-- 207 of 215 --
+
+MDV-111
+Peso Kg/m
+0,177
+Peso Barra 6 m
+1,061 Kg
+Requadro
+MDV502
+Peso Kg/m
+0,240
+Peso Barra 6 m
+1,442 Kg
+Requadro Baguete
+MBG001
+Peso Kg/m
+0,098
+Peso Barra 6 m
+0,590 Kg
+Baguete
+MBG013
+Peso Kg/m
+0,114
+Peso Barra 6 m
+0,686 Kg
+Baguete
+www.mirandaaluminio.com.br 209
+DIVISÓRIAS
+
+-- 208 of 215 --
+
+MTL551
+Peso Kg/m
+0,197
+Peso Barra 6 m
+1,180 Kg
+Quadro Tela
+MTL553
+Peso Kg/m
+0,319
+Peso Barra 6 m
+1,915 Kg
+Coluna / Travessa
+www.mirandaaluminio.com.br
+TELA
+210
+MTL552
+Peso Kg/m
+0,316
+Peso Barra 6 m
+1,897 Kg
+Quadro Tela
+
+-- 209 of 215 --
+
+MN4011
+Peso Kg/m
+1,602
+Peso Barra 6 m
+9,612 Kg
+Proteção De Ciclista
+MN4010
+Peso Kg/m
+1,648
+Peso Barra 6 m
+9,888 Kg
+Proteção De Ciclista
+www.mirandaaluminio.com.br
+CARROCERIAS
+211
+
+-- 210 of 215 --
+
+MN4012
+Peso Kg/m
+0,549
+Peso Barra 6 m
+3,295 Kg
+Proteção Ciclista
+ME0338
+Peso Kg/m
+0,123
+Peso Barra 6 m
+0,738 Kg
+Acabamento Porta Lateral
+MDS385
+Peso Kg/m
+0,098
+Peso Barra 6 m
+0,588 Kg
+MN0074
+Peso Kg/m
+0,410
+Peso Barra 6 m
+2,460 Kg
+Arremate	Acabamento Porta Lateral
+www.mirandaaluminio.com.br 212
+CARROCERIAS
+
+-- 211 of 215 --
+
+MMV056
+Peso Kg/m
+0,428
+Peso Barra 6 m
+2,570 Kg
+Perfil Obilongo
+ME3532
+Peso Kg/m
+0,853
+Peso Barra 6 m
+5,120 Kg
+Perfil Borda
+www.mirandaaluminio.com.br 213
+CARROCERIAS
+MN1285
+Peso Kg/m
+0,293
+Peso Barra 6 m
+1,760 Kg
+Perfil Barco
+
+-- 212 of 215 --
+
+LGM001
+Peso Kg/m
+0,545
+Peso Barra 6 m
+3,270 Kg
+Trilho Fotovoltáico
+LGM002
+Peso Kg/m
+0,492
+Peso Barra 6 m
+2,950 Kg
+Perfil ‘T’ Tubular
+www.mirandaaluminio.com.br
+DIVERSOS
+214
+
+-- 213 of 215 --
+
+MDS264
+Peso Kg/m
+0,084
+Peso Barra 6 m
+0,504 Kg
+Arremate Azuleijo
+MTF006
+Peso Kg/m
+0,167
+Peso Barra 6 m
+0,999 Kg
+Tubo Frisado
+MT695L
+Peso Kg/m
+0,291
+Peso Barra 6 m
+1,745 Kg
+Arremate
+www.mirandaaluminio.com.br 215
+DIVERSOS
+Sob Consulta
+
+-- 214 of 215 --
+
+
+
+-- 215 of 215 --
+
